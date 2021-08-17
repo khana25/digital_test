@@ -1,0 +1,23 @@
+{
+  "videosFolder": "videos",
+  "videoCompression": 0,
+  "pluginsFile": "cypress/plugins/index.ts",
+  "supportFile": "cypress/support/index.ts",
+  "chromeWebSecurity": false,
+  "reporter": "mochawesome",
+
+  "reporterOptions": {
+    "reportDir": "results",
+    "timestamp": "yyyy-mm-dd_HH-MM-ss_l",
+    "overwrite": false,
+    "html": false,
+    "json": true,
+    "reportTitle": "AK test report title",
+    "reportPageTitle": "Report title here",
+    "title": "AK test report title 2",
+    "pageTitle": "Report title here 3",
+    "code": false
+  },
+  "defaultCommandTimeout": 15000,
+  "responseTimeout": 60000
+}

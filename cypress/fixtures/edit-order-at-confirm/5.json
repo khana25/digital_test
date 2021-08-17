@@ -1,0 +1,31 @@
+{
+  "reviews": [
+    {
+      "reviewer": "be8eb9f102e94f97db27fe2aa5ffe88a d49e38fcab97be35f5a94f477700dce9",
+      "date": "2021-04-29T20:37:05.000+01:00",
+      "title": "Having received some myself last year…",
+      "review": "Having received some myself last year following an operation, I was so impressed with them, that I decided they were the flowers to send in the future.",
+      "rating": 5,
+      "sku_id": 3300,
+      "review_user_images": []
+    },
+    {
+      "reviewer": "9f426e96e4dc395d2c5f4359e80d1331 d2917f5c6573346ff0f7bbb08a986a89",
+      "date": "2021-04-29T18:10:52.000+01:00",
+      "title": "Lovely flowers delivered next day",
+      "review": "Lovely flowers delivered next day, lasted a week so far, very impressed.",
+      "rating": 5,
+      "sku_id": 3376,
+      "review_user_images": []
+    },
+    {
+      "reviewer": "86a8ebf45d9571080aed659255325fa7 1765d8f0c59309e5b51c22ebbf4430ac",
+      "date": "2021-04-29T17:38:14.000+01:00",
+      "title": "Excellent all round",
+      "review": "I have used Bloom & Wild several times now. The website is clear and detailed. The prices are extremely reasonable. Every recipient has adored the selections and all have said the blooms have lasted at least 8-10 days. The concept of letterbox flowers is genius - meaning you never to have ruin a surprise by warning someone they will be receiving a delivery.",
+      "rating": 5,
+      "sku_id": 1515,
+      "review_user_images": []
+    }
+  ]
+}

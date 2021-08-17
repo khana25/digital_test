@@ -1,0 +1,15 @@
+{
+  "registered": false,
+  "guest": false,
+  "external_id": "722aea35cc3e3e2c535af62e8a2ce15f",
+  "email": "hank.hancock62113698@bloomandwild.com",
+  "email_preference": null,
+  "content_preferences": {
+    "fathers_day": null,
+    "valentines_day": null,
+    "grandparents_day": null,
+    "mothers_day": null
+  },
+  "has_ordered": false,
+  "email_sha256": "75d46b96eee1770f28b82b17430968a69d9934709fd760044499783afacce973"
+}

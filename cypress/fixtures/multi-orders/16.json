@@ -1,0 +1,15 @@
+{
+  "registered": false,
+  "guest": false,
+  "external_id": "8efa5a0eb43ad9a2061e80116aff6ac9",
+  "email": "jack.aikin26396527@bloomandwild.com",
+  "email_preference": null,
+  "content_preferences": {
+    "fathers_day": null,
+    "valentines_day": null,
+    "grandparents_day": null,
+    "mothers_day": null
+  },
+  "has_ordered": false,
+  "email_sha256": "f7db4c9c2028478c417c127bdd07f2d2138a95bac880c884c0ce45def53640fd"
+}

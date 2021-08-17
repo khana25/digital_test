@@ -1,0 +1,1269 @@
+{
+  "user": {
+    "created_at": "2021-05-04T16:46:11.042+01:00",
+    "updated_at": "2021-05-04T16:46:19.395+01:00",
+    "email": "george.kassing83612336@bloomandwild.com",
+    "full_name": "George Kassing",
+    "given": "George",
+    "family": "Kassing",
+    "slug": "53991976574ca4d570d9ae959dbfc043",
+    "authentication_token": "WXUZC59Xj2y1iFV__NAB",
+    "facebook_id": null,
+    "default_credit_card_id": null,
+    "balance": 0,
+    "balance_currency": "GBP",
+    "email_preference": 0,
+    "locale": "de-AT",
+    "push_preference": 0,
+    "is_registered?": true,
+    "business_user": null,
+    "segments": [
+      {
+        "name": "default",
+        "variant": 1,
+        "weight": 9,
+        "carousel_skus": [
+          {
+            "sku_id": 3368,
+            "weight": 32
+          },
+          {
+            "sku_id": 3494,
+            "weight": 34
+          },
+          {
+            "sku_id": 210,
+            "weight": 16
+          },
+          {
+            "sku_id": 1888,
+            "weight": 2
+          },
+          {
+            "sku_id": 3813,
+            "weight": 53
+          },
+          {
+            "sku_id": 3566,
+            "weight": 75
+          },
+          {
+            "sku_id": 2961,
+            "weight": 69
+          },
+          {
+            "sku_id": 2955,
+            "weight": 93
+          },
+          {
+            "sku_id": 2954,
+            "weight": 88
+          },
+          {
+            "sku_id": 2952,
+            "weight": 85
+          },
+          {
+            "sku_id": 2956,
+            "weight": 87
+          },
+          {
+            "sku_id": 3299,
+            "weight": 4
+          },
+          {
+            "sku_id": 1174,
+            "weight": 83
+          },
+          {
+            "sku_id": 337,
+            "weight": 39
+          },
+          {
+            "sku_id": 3038,
+            "weight": 61
+          },
+          {
+            "sku_id": 3366,
+            "weight": 12
+          },
+          {
+            "sku_id": 3037,
+            "weight": 78
+          },
+          {
+            "sku_id": 3824,
+            "weight": 76
+          },
+          {
+            "sku_id": 3863,
+            "weight": 70
+          },
+          {
+            "sku_id": 2962,
+            "weight": 67
+          },
+          {
+            "sku_id": 3823,
+            "weight": 66
+          },
+          {
+            "sku_id": 2994,
+            "weight": 91
+          },
+          {
+            "sku_id": 2957,
+            "weight": 89
+          },
+          {
+            "sku_id": 3916,
+            "weight": 1
+          },
+          {
+            "sku_id": 2953,
+            "weight": 86
+          },
+          {
+            "sku_id": 2960,
+            "weight": 82
+          },
+          {
+            "sku_id": 2963,
+            "weight": 42
+          },
+          {
+            "sku_id": 3603,
+            "weight": 7
+          },
+          {
+            "sku_id": 3604,
+            "weight": 6
+          },
+          {
+            "sku_id": 3943,
+            "weight": 95
+          },
+          {
+            "sku_id": 3827,
+            "weight": 80
+          },
+          {
+            "sku_id": 3017,
+            "weight": 63
+          },
+          {
+            "sku_id": 938,
+            "weight": 84
+          },
+          {
+            "sku_id": 2951,
+            "weight": 92
+          },
+          {
+            "sku_id": 3822,
+            "weight": 77
+          },
+          {
+            "sku_id": 3818,
+            "weight": 62
+          },
+          {
+            "sku_id": 1756,
+            "weight": 58
+          },
+          {
+            "sku_id": 3626,
+            "weight": 49
+          },
+          {
+            "sku_id": 3608,
+            "weight": 44
+          },
+          {
+            "sku_id": 1710,
+            "weight": 43
+          },
+          {
+            "sku_id": 3805,
+            "weight": 37
+          },
+          {
+            "sku_id": 3606,
+            "weight": 23
+          },
+          {
+            "sku_id": 3591,
+            "weight": 103
+          },
+          {
+            "sku_id": 1192,
+            "weight": 40
+          },
+          {
+            "sku_id": 3811,
+            "weight": 57
+          },
+          {
+            "sku_id": 3816,
+            "weight": 45
+          },
+          {
+            "sku_id": 3791,
+            "weight": 35
+          },
+          {
+            "sku_id": 3960,
+            "weight": 3
+          },
+          {
+            "sku_id": 3825,
+            "weight": 74
+          },
+          {
+            "sku_id": 3817,
+            "weight": 64
+          },
+          {
+            "sku_id": 2697,
+            "weight": 102
+          },
+          {
+            "sku_id": 3959,
+            "weight": 101
+          },
+          {
+            "sku_id": 2912,
+            "weight": 96
+          },
+          {
+            "sku_id": 2259,
+            "weight": 94
+          },
+          {
+            "sku_id": 3810,
+            "weight": 25
+          },
+          {
+            "sku_id": 3814,
+            "weight": 24
+          },
+          {
+            "sku_id": 3607,
+            "weight": 11
+          },
+          {
+            "sku_id": 3646,
+            "weight": 100
+          },
+          {
+            "sku_id": 3651,
+            "weight": 99
+          },
+          {
+            "sku_id": 2652,
+            "weight": 98
+          },
+          {
+            "sku_id": 3648,
+            "weight": 97
+          },
+          {
+            "sku_id": 453,
+            "weight": 81
+          },
+          {
+            "sku_id": 3826,
+            "weight": 73
+          },
+          {
+            "sku_id": 3795,
+            "weight": 50
+          },
+          {
+            "sku_id": 3832,
+            "weight": 47
+          },
+          {
+            "sku_id": 3605,
+            "weight": 46
+          },
+          {
+            "sku_id": 3378,
+            "weight": 38
+          },
+          {
+            "sku_id": 3894,
+            "weight": 14
+          },
+          {
+            "sku_id": 3364,
+            "weight": 20
+          },
+          {
+            "sku_id": 2958,
+            "weight": 90
+          },
+          {
+            "sku_id": 3367,
+            "weight": 17
+          },
+          {
+            "sku_id": 2534,
+            "weight": 48
+          },
+          {
+            "sku_id": 2377,
+            "weight": 15
+          },
+          {
+            "sku_id": 110,
+            "weight": 5
+          },
+          {
+            "sku_id": 3468,
+            "weight": 60
+          },
+          {
+            "sku_id": 3381,
+            "weight": 28
+          },
+          {
+            "sku_id": 3601,
+            "weight": 9
+          },
+          {
+            "sku_id": 3621,
+            "weight": 26
+          },
+          {
+            "sku_id": 1776,
+            "weight": 10
+          },
+          {
+            "sku_id": 3896,
+            "weight": 54
+          },
+          {
+            "sku_id": 3895,
+            "weight": 41
+          },
+          {
+            "sku_id": 3491,
+            "weight": 56
+          },
+          {
+            "sku_id": 3372,
+            "weight": 36
+          },
+          {
+            "sku_id": 3890,
+            "weight": 8
+          },
+          {
+            "sku_id": 3373,
+            "weight": 21
+          },
+          {
+            "sku_id": 3376,
+            "weight": 33
+          },
+          {
+            "sku_id": 822,
+            "weight": 31
+          },
+          {
+            "sku_id": 3668,
+            "weight": 13
+          },
+          {
+            "sku_id": 2364,
+            "weight": 29
+          },
+          {
+            "sku_id": 1515,
+            "weight": 19
+          },
+          {
+            "sku_id": 2444,
+            "weight": 30
+          },
+          {
+            "sku_id": 3789,
+            "weight": 27
+          },
+          {
+            "sku_id": 3815,
+            "weight": 51
+          },
+          {
+            "sku_id": 3300,
+            "weight": 22
+          },
+          {
+            "sku_id": 3375,
+            "weight": 18
+          },
+          {
+            "sku_id": 3630,
+            "weight": 52
+          },
+          {
+            "sku_id": 3631,
+            "weight": 65
+          },
+          {
+            "sku_id": 3435,
+            "weight": 55
+          },
+          {
+            "sku_id": 3036,
+            "weight": 79
+          },
+          {
+            "sku_id": 2361,
+            "weight": 71
+          },
+          {
+            "sku_id": 2959,
+            "weight": 68
+          },
+          {
+            "sku_id": 1755,
+            "weight": 72
+          },
+          {
+            "sku_id": 2537,
+            "weight": 59
+          },
+          {
+            "sku_id": 2981,
+            "weight": 2
+          },
+          {
+            "sku_id": 3093,
+            "weight": 1
+          },
+          {
+            "sku_id": 3418,
+            "weight": 13
+          },
+          {
+            "sku_id": 3427,
+            "weight": 12
+          },
+          {
+            "sku_id": 3428,
+            "weight": 11
+          },
+          {
+            "sku_id": 3107,
+            "weight": 10
+          },
+          {
+            "sku_id": 3108,
+            "weight": 9
+          },
+          {
+            "sku_id": 3426,
+            "weight": 8
+          },
+          {
+            "sku_id": 3423,
+            "weight": 5
+          },
+          {
+            "sku_id": 3421,
+            "weight": 4
+          },
+          {
+            "sku_id": 3334,
+            "weight": 3
+          },
+          {
+            "sku_id": 3430,
+            "weight": 14
+          },
+          {
+            "sku_id": 3425,
+            "weight": 7
+          },
+          {
+            "sku_id": 3424,
+            "weight": 6
+          },
+          {
+            "sku_id": 3638,
+            "weight": 48
+          },
+          {
+            "sku_id": 3454,
+            "weight": 36
+          },
+          {
+            "sku_id": 3391,
+            "weight": 31
+          },
+          {
+            "sku_id": 2849,
+            "weight": 24
+          },
+          {
+            "sku_id": 3307,
+            "weight": 21
+          },
+          {
+            "sku_id": 2837,
+            "weight": 20
+          },
+          {
+            "sku_id": 4046,
+            "weight": 69
+          },
+          {
+            "sku_id": 3957,
+            "weight": 66
+          },
+          {
+            "sku_id": 3955,
+            "weight": 65
+          },
+          {
+            "sku_id": 3907,
+            "weight": 61
+          },
+          {
+            "sku_id": 4237,
+            "weight": 72
+          },
+          {
+            "sku_id": 3594,
+            "weight": 46
+          },
+          {
+            "sku_id": 4106,
+            "weight": 71
+          },
+          {
+            "sku_id": 4204,
+            "weight": 5
+          },
+          {
+            "sku_id": 3780,
+            "weight": 50
+          },
+          {
+            "sku_id": 3452,
+            "weight": 35
+          },
+          {
+            "sku_id": 3503,
+            "weight": 33
+          },
+          {
+            "sku_id": 4105,
+            "weight": 70
+          },
+          {
+            "sku_id": 3905,
+            "weight": 60
+          },
+          {
+            "sku_id": 3936,
+            "weight": 58
+          },
+          {
+            "sku_id": 3935,
+            "weight": 57
+          },
+          {
+            "sku_id": 3919,
+            "weight": 56
+          },
+          {
+            "sku_id": 3899,
+            "weight": 55
+          },
+          {
+            "sku_id": 3897,
+            "weight": 54
+          },
+          {
+            "sku_id": 2829,
+            "weight": 19
+          },
+          {
+            "sku_id": 3972,
+            "weight": 68
+          },
+          {
+            "sku_id": 3969,
+            "weight": 67
+          },
+          {
+            "sku_id": 3953,
+            "weight": 64
+          },
+          {
+            "sku_id": 3949,
+            "weight": 62
+          },
+          {
+            "sku_id": 3486,
+            "weight": 3
+          },
+          {
+            "sku_id": 3441,
+            "weight": 1
+          },
+          {
+            "sku_id": 3834,
+            "weight": 49
+          },
+          {
+            "sku_id": 3442,
+            "weight": 32
+          },
+          {
+            "sku_id": 2848,
+            "weight": 26
+          },
+          {
+            "sku_id": 2834,
+            "weight": 23
+          },
+          {
+            "sku_id": 3619,
+            "weight": 47
+          },
+          {
+            "sku_id": 3951,
+            "weight": 63
+          },
+          {
+            "sku_id": 3830,
+            "weight": 51
+          },
+          {
+            "sku_id": 3547,
+            "weight": 43
+          },
+          {
+            "sku_id": 3545,
+            "weight": 42
+          },
+          {
+            "sku_id": 3456,
+            "weight": 37
+          },
+          {
+            "sku_id": 2910,
+            "weight": 11
+          },
+          {
+            "sku_id": 3504,
+            "weight": 39
+          },
+          {
+            "sku_id": 3937,
+            "weight": 59
+          },
+          {
+            "sku_id": 3891,
+            "weight": 53
+          },
+          {
+            "sku_id": 2814,
+            "weight": 29
+          },
+          {
+            "sku_id": 2815,
+            "weight": 2
+          },
+          {
+            "sku_id": 3855,
+            "weight": 52
+          },
+          {
+            "sku_id": 3541,
+            "weight": 41
+          },
+          {
+            "sku_id": 3514,
+            "weight": 38
+          },
+          {
+            "sku_id": 3451,
+            "weight": 34
+          },
+          {
+            "sku_id": 3308,
+            "weight": 14
+          },
+          {
+            "sku_id": 2911,
+            "weight": 10
+          },
+          {
+            "sku_id": 2909,
+            "weight": 16
+          },
+          {
+            "sku_id": 3077,
+            "weight": 15
+          },
+          {
+            "sku_id": 3233,
+            "weight": 7
+          },
+          {
+            "sku_id": 3231,
+            "weight": 6
+          },
+          {
+            "sku_id": 3075,
+            "weight": 44
+          },
+          {
+            "sku_id": 3076,
+            "weight": 45
+          },
+          {
+            "sku_id": 3506,
+            "weight": 40
+          },
+          {
+            "sku_id": 2816,
+            "weight": 9
+          },
+          {
+            "sku_id": 3074,
+            "weight": 8
+          },
+          {
+            "sku_id": 2830,
+            "weight": 28
+          },
+          {
+            "sku_id": 2841,
+            "weight": 27
+          },
+          {
+            "sku_id": 2840,
+            "weight": 25
+          },
+          {
+            "sku_id": 3013,
+            "weight": 18
+          },
+          {
+            "sku_id": 3305,
+            "weight": 17
+          },
+          {
+            "sku_id": 3012,
+            "weight": 13
+          },
+          {
+            "sku_id": 3306,
+            "weight": 12
+          },
+          {
+            "sku_id": 3309,
+            "weight": 30
+          },
+          {
+            "sku_id": 3304,
+            "weight": 22
+          },
+          {
+            "sku_id": 2813,
+            "weight": 4
+          },
+          {
+            "sku_id": 4238,
+            "weight": 3
+          },
+          {
+            "sku_id": 4172,
+            "weight": 51
+          },
+          {
+            "sku_id": 3974,
+            "weight": 47
+          },
+          {
+            "sku_id": 3114,
+            "weight": 30
+          },
+          {
+            "sku_id": 4171,
+            "weight": 50
+          },
+          {
+            "sku_id": 4107,
+            "weight": 49
+          },
+          {
+            "sku_id": 3892,
+            "weight": 36
+          },
+          {
+            "sku_id": 4047,
+            "weight": 48
+          },
+          {
+            "sku_id": 3900,
+            "weight": 39
+          },
+          {
+            "sku_id": 3898,
+            "weight": 38
+          },
+          {
+            "sku_id": 3047,
+            "weight": 37
+          },
+          {
+            "sku_id": 3835,
+            "weight": 34
+          },
+          {
+            "sku_id": 3833,
+            "weight": 33
+          },
+          {
+            "sku_id": 3509,
+            "weight": 25
+          },
+          {
+            "sku_id": 3458,
+            "weight": 21
+          },
+          {
+            "sku_id": 2986,
+            "weight": 4
+          },
+          {
+            "sku_id": 3958,
+            "weight": 46
+          },
+          {
+            "sku_id": 3819,
+            "weight": 27
+          },
+          {
+            "sku_id": 3954,
+            "weight": 45
+          },
+          {
+            "sku_id": 3952,
+            "weight": 44
+          },
+          {
+            "sku_id": 3920,
+            "weight": 40
+          },
+          {
+            "sku_id": 3028,
+            "weight": 17
+          },
+          {
+            "sku_id": 3056,
+            "weight": 9
+          },
+          {
+            "sku_id": 3950,
+            "weight": 43
+          },
+          {
+            "sku_id": 3908,
+            "weight": 42
+          },
+          {
+            "sku_id": 3906,
+            "weight": 41
+          },
+          {
+            "sku_id": 3510,
+            "weight": 26
+          },
+          {
+            "sku_id": 2985,
+            "weight": 2
+          },
+          {
+            "sku_id": 3856,
+            "weight": 35
+          },
+          {
+            "sku_id": 3642,
+            "weight": 32
+          },
+          {
+            "sku_id": 3045,
+            "weight": 8
+          },
+          {
+            "sku_id": 3041,
+            "weight": 7
+          },
+          {
+            "sku_id": 2992,
+            "weight": 16
+          },
+          {
+            "sku_id": 3053,
+            "weight": 14
+          },
+          {
+            "sku_id": 3639,
+            "weight": 31
+          },
+          {
+            "sku_id": 3558,
+            "weight": 29
+          },
+          {
+            "sku_id": 3636,
+            "weight": 18
+          },
+          {
+            "sku_id": 3637,
+            "weight": 10
+          },
+          {
+            "sku_id": 3112,
+            "weight": 6
+          },
+          {
+            "sku_id": 3044,
+            "weight": 5
+          },
+          {
+            "sku_id": 3462,
+            "weight": 22
+          },
+          {
+            "sku_id": 3457,
+            "weight": 20
+          },
+          {
+            "sku_id": 3054,
+            "weight": 12
+          },
+          {
+            "sku_id": 3507,
+            "weight": 24
+          },
+          {
+            "sku_id": 3464,
+            "weight": 23
+          },
+          {
+            "sku_id": 3552,
+            "weight": 28
+          },
+          {
+            "sku_id": 3052,
+            "weight": 19
+          },
+          {
+            "sku_id": 2997,
+            "weight": 1
+          },
+          {
+            "sku_id": 3030,
+            "weight": 15
+          },
+          {
+            "sku_id": 3003,
+            "weight": 13
+          },
+          {
+            "sku_id": 3033,
+            "weight": 11
+          },
+          {
+            "sku_id": 1677,
+            "weight": 18
+          },
+          {
+            "sku_id": 3489,
+            "weight": 14
+          },
+          {
+            "sku_id": 3586,
+            "weight": 13
+          },
+          {
+            "sku_id": 2719,
+            "weight": 9
+          },
+          {
+            "sku_id": 1352,
+            "weight": 59
+          },
+          {
+            "sku_id": 2216,
+            "weight": 57
+          },
+          {
+            "sku_id": 3942,
+            "weight": 37
+          },
+          {
+            "sku_id": 2721,
+            "weight": 3
+          },
+          {
+            "sku_id": 4009,
+            "weight": 21
+          },
+          {
+            "sku_id": 4072,
+            "weight": 40
+          },
+          {
+            "sku_id": 1354,
+            "weight": 58
+          },
+          {
+            "sku_id": 2968,
+            "weight": 53
+          },
+          {
+            "sku_id": 4011,
+            "weight": 32
+          },
+          {
+            "sku_id": 503,
+            "weight": 25
+          },
+          {
+            "sku_id": 3572,
+            "weight": 23
+          },
+          {
+            "sku_id": 1844,
+            "weight": 12
+          },
+          {
+            "sku_id": 4041,
+            "weight": 36
+          },
+          {
+            "sku_id": 4012,
+            "weight": 6
+          },
+          {
+            "sku_id": 3877,
+            "weight": 47
+          },
+          {
+            "sku_id": 3449,
+            "weight": 28
+          },
+          {
+            "sku_id": 1469,
+            "weight": 17
+          },
+          {
+            "sku_id": 1353,
+            "weight": 15
+          },
+          {
+            "sku_id": 4113,
+            "weight": 44
+          },
+          {
+            "sku_id": 3843,
+            "weight": 49
+          },
+          {
+            "sku_id": 3070,
+            "weight": 48
+          },
+          {
+            "sku_id": 3539,
+            "weight": 42
+          },
+          {
+            "sku_id": 3947,
+            "weight": 39
+          },
+          {
+            "sku_id": 3946,
+            "weight": 30
+          },
+          {
+            "sku_id": 4010,
+            "weight": 8
+          },
+          {
+            "sku_id": 4013,
+            "weight": 4
+          },
+          {
+            "sku_id": 1520,
+            "weight": 62
+          },
+          {
+            "sku_id": 3071,
+            "weight": 51
+          },
+          {
+            "sku_id": 3948,
+            "weight": 26
+          },
+          {
+            "sku_id": 3945,
+            "weight": 22
+          },
+          {
+            "sku_id": 3944,
+            "weight": 5
+          },
+          {
+            "sku_id": 4045,
+            "weight": 43
+          },
+          {
+            "sku_id": 4048,
+            "weight": 41
+          },
+          {
+            "sku_id": 4014,
+            "weight": 66
+          },
+          {
+            "sku_id": 2120,
+            "weight": 16
+          },
+          {
+            "sku_id": 4040,
+            "weight": 27
+          },
+          {
+            "sku_id": 1685,
+            "weight": 29
+          },
+          {
+            "sku_id": 4039,
+            "weight": 31
+          },
+          {
+            "sku_id": 2779,
+            "weight": 61
+          },
+          {
+            "sku_id": 3537,
+            "weight": 60
+          },
+          {
+            "sku_id": 3072,
+            "weight": 52
+          },
+          {
+            "sku_id": 3069,
+            "weight": 50
+          },
+          {
+            "sku_id": 3939,
+            "weight": 7
+          },
+          {
+            "sku_id": 3909,
+            "weight": 33
+          },
+          {
+            "sku_id": 3893,
+            "weight": 34
+          },
+          {
+            "sku_id": 3878,
+            "weight": 46
+          },
+          {
+            "sku_id": 3564,
+            "weight": 56
+          },
+          {
+            "sku_id": 2964,
+            "weight": 54
+          },
+          {
+            "sku_id": 3447,
+            "weight": 35
+          },
+          {
+            "sku_id": 666,
+            "weight": 10
+          },
+          {
+            "sku_id": 3467,
+            "weight": 11
+          },
+          {
+            "sku_id": 3806,
+            "weight": 45
+          },
+          {
+            "sku_id": 2965,
+            "weight": 55
+          },
+          {
+            "sku_id": 3512,
+            "weight": 38
+          },
+          {
+            "sku_id": 815,
+            "weight": 19
+          },
+          {
+            "sku_id": 432,
+            "weight": 1
+          },
+          {
+            "sku_id": 3117,
+            "weight": 2
+          },
+          {
+            "sku_id": 545,
+            "weight": 64
+          },
+          {
+            "sku_id": 816,
+            "weight": 65
+          },
+          {
+            "sku_id": 811,
+            "weight": 63
+          },
+          {
+            "sku_id": 920,
+            "weight": 24
+          },
+          {
+            "sku_id": 487,
+            "weight": 20
+          }
+        ]
+      }
+    ],
+    "balance_pennies": {
+      "gbp": 0,
+      "eur": 0
+    },
+    "order_count": 0,
+    "billing_address_id": null,
+    "postal_preference": "unsubscribed",
+    "email_sha256": "b19025ee93005ecc5f1cf9edb1ae20783b2a27b2ccaa8a98d10c48b543a18688",
+    "ordered_sku_ids": [],
+    "content_preferences": {
+      "fathers_day": 1,
+      "valentines_day": 1,
+      "grandparents_day": 1,
+      "mothers_day": 1
+    }
+  }
+}

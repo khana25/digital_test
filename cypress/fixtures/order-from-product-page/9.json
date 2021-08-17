@@ -1,0 +1,135 @@
+{
+  "data": {
+    "id": "210",
+    "type": "sku_details",
+    "attributes": {
+      "description_components": [
+        {
+          "kind": "substitutions",
+          "background_colour": "#fbf1f1",
+          "icon": "flowers-3-stems",
+          "description": "Every stem is unique so sometimes colours vary or we'll need to use a substitution to give you the best bouquet!"
+        },
+        {
+          "kind": "plant_care_description",
+          "background_colour": "#fbf1f1",
+          "icon": "hands-flowers",
+          "description": "Arrives in bud. But bursts into life over 48 hours."
+        },
+        {
+          "kind": "packaging_description",
+          "background_colour": "#fbf1f1",
+          "icon": "through-door",
+          "description": "Delivered through the letterbox with easy arranging tips."
+        },
+        {
+          "kind": "delivery_description",
+          "background_colour": "#fbf1f1",
+          "icon": "delivery-van",
+          "description": "Choose our free Royal Mail service or premium courier for delivery on your nominated day."
+        },
+        {
+          "kind": "gift_card_description",
+          "background_colour": "#fbf1f1",
+          "icon": "polaroid",
+          "description": "Choose your favourite free gift card."
+        },
+        {
+          "kind": "netting_description",
+          "background_colour": "#fbf1f1",
+          "icon": "hands-flowers",
+          "description": "Delicate flowers are wrapped in widely recyclable petal protectors."
+        }
+      ],
+      "reviews": [
+        {
+          "date": "2021-04-29T09:57:06+01:00",
+          "rating": 5,
+          "review": "Excellent choice of flowers. Very reasonably priced and the quality is excellent.\nI like the ability to track re delivery.\nI have taken the opportunity to use the discounts offered by the company which I have appreciated. \nThank you",
+          "reviewer": "174f62f71aede11e027f72a6e00cba28 47696a7bf7b20380ce6f37ad053af67c",
+          "title": "Excellent choice of flowers"
+        },
+        {
+          "date": "2021-04-29T09:34:46+01:00",
+          "rating": 5,
+          "review": "Great service wonderful flowers, lasting weeks.",
+          "reviewer": "b0273f24abd249e65593b5addf2b69cc 0b48f43df9bbe6dc7b11e4482af8a585",
+          "title": "Great service wonderful flowers"
+        },
+        {
+          "date": "2021-04-29T07:43:51+01:00",
+          "rating": 5,
+          "review": "I received some flowers from my daughter from Bloom & Wild. What a wonderful idea!. The flowers were absolutely beautiful and so fresh. They lasted for over 3 weeks!. I have since ordered for a friend who also loved them. Well Done!, I will be ordering again *****",
+          "reviewer": "8e86282980300131b0509ad67413242f 19c82c3d65f0f32dc866b649262f10ad",
+          "title": "I received some flowers from my…"
+        },
+        {
+          "date": "2021-04-28T15:49:18+01:00",
+          "rating": 5,
+          "review": "Lovely fresh flowers delivered on the specified day.\nBeautifully presented\nThank you",
+          "reviewer": "c02332f9f5cdb0b2308a59d1ae257452 e67995f3779a9228ae4d499358f5000d",
+          "title": "Lovely fresh flowers delivered on the…"
+        },
+        {
+          "date": "2021-04-28T11:03:18+01:00",
+          "rating": 5,
+          "review": "Wonderful flowers arrived on time \r\n80th birthday they were loved \r\nThank you",
+          "reviewer": "d2083496f772740f8dedd2cd88e82515 304e07e9d914659090db2f825ef7d786",
+          "title": null
+        },
+        {
+          "date": "2021-04-28T10:52:39+01:00",
+          "rating": 5,
+          "review": "Would highly recommend Bloom &amp; Wild for quality of flowers service and attention to caring for the flowers once delivered",
+          "reviewer": "84f9f3793ad8752d5e80f40e57aa5eb6 80007ce16cfb94e82804f37b298c95b9",
+          "title": null
+        },
+        {
+          "date": "2021-04-28T10:01:07+01:00",
+          "rating": 5,
+          "review": "Bloom and Wild have come up with an excellent idea, sending flowers out that are still in bud and so the recipient will have the pleasure of watching them bloom into full flower. From a sender's point of view, it makes the gift much more worthwhile, as the display will last longer. Having used this company several time, their delivery has always been on time and the packaging excellent at  protecting the tender stems.",
+          "reviewer": "bca0b224a7369bbc0ac35fd333ba5205 616a9600447e7f5bde2543e07ea6b544",
+          "title": "Bloom and Wild have come up with an…"
+        },
+        {
+          "date": "2021-04-28T09:03:09+01:00",
+          "rating": 5,
+          "review": "Such great flowers, very quick delivery! Excellent service !",
+          "reviewer": "bdcd68bf2a8d76e56f169d0571ab382c bbb43352aed3296ef6d3b69c3018d5ed",
+          "title": null
+        },
+        {
+          "date": "2021-04-28T07:16:33+01:00",
+          "rating": 5,
+          "review": "I have used this company quite a few times over the past year and have never been dissatisfied. The flowers always arrive on time and are always beautiful 😍",
+          "reviewer": "5edf18e6da5fdf7fbe91c4ce85194c54 5164e39627cbef9e1fcbdbf9b4754ce3",
+          "title": null
+        },
+        {
+          "date": "2021-04-27T16:09:39+01:00",
+          "rating": 5,
+          "review": "I have ordered 3 times now from Bloom and Wild. Placing the order is very easy - the website works well and the photographs are very useful. The flowers are very good quality and do last well. Worth the money!",
+          "reviewer": "4e20409785b67facbf1702d53a24652d e75385b96712c37fe7265d80b45fdeb4",
+          "title": null
+        },
+        {
+          "date": "2021-04-27T13:51:40+01:00",
+          "rating": 5,
+          "review": "Ordered a few deliveries lately and all recipients have been delighted with their gifts! Easy app to use and delivered on the dates stated.",
+          "reviewer": "56625405e08d82fcf1973a4b01ce3cc9 8b167bea734ec5c0e150dd9cb85c4338",
+          "title": null
+        },
+        {
+          "date": "2021-04-27T11:14:44+01:00",
+          "rating": 5,
+          "review": "Flowers fresh and well chosen, and beautifully packaged.  But &#039;message cards&#039; need to be bigger and not hidden.   2 of my recipients didn&#039;t know they were from me and not Geo Clooney!",
+          "reviewer": "adfbe924fadea7fdd52908dc91ba0a0f dcb9345ad3e69ba0246af8c90a6d720e",
+          "title": null
+        }
+      ],
+      "average_rating": 5,
+      "long_description": "Our florists redesign these limited-edition bouquets every four weeks, so they’re always changing. Know someone who’d spend all day outside if they could? Bring the outdoors in for them with this lush bouquet.    <br><br> <ul> <li><p>20 stems including stocks, snapdragons, solidago, september and bupleurum</p></li> <li><p>Delivered through the door in our bespoke letterbox packaging, with a gift card including your personal message</p></li> <li><p>Carefully packed by hand, and delicate blooms are individually netted</p></li> <li><p>Choose free next day delivery via Royal Mail Tracked or upgrade to Premium Delivery for improved tracking and reliability.</p></li> <li><p>Note, each stem is unique and seasonal, so on rare occasion colours may vary or we'll substitute stems to give you the highest quality bouquet.</p></li> </ul>",
+      "seo_title": "Seasonal flower bouquet"
+    }
+  }
+}

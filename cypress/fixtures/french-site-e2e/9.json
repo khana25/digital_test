@@ -1,0 +1,1235 @@
+{
+  "data": [
+    {
+      "id": "3753",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR peony in hand",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/6c7dc14e-ed0b-44dd-aee2-6e1c295f9499.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/5835a7d6-0c8f-4abd-999a-f60ad98d0b19.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR peony in hand",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-just-because",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": true
+      }
+    },
+    {
+      "id": "3569",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "Une chouette Mona Lisa pour les mordus d’art ! L’onctueux chocolat au lait bio laisse place aux éclats de caramel qui croquent sous la dent. Bouquet final : une pointe de sel de Guérande ! Cette barre du chocolat des Français, à l'emballage superbe et la saveur irrésistible, accompagnera parfaitement vos fleurs pour faire un cadeau aussi bon que beau !",
+        "eighteen_plus": false,
+        "long_description": "Une chouette Mona Lisa pour les mordus d’art ! L’onctueux chocolat au lait bio laisse place aux éclats de caramel qui croquent sous la dent. Bouquet final : une pointe de sel de Guérande ! <br><br>\r\nCette barre du chocolat des Français, à l'emballage superbe et la saveur irrésistible, accompagnera parfaitement vos fleurs pour faire un cadeau aussi bon que beau !</br>\r\n\r\n<ul>\r\n<li><p>Ingrédients: Chocolat au lait, caramel & sel de Guérande - Bio </li></p>\r\n<li><p>Poids net : 80 g</li></p>\r\n<li><p>Peut contenir des traces de: céréales contenant du gluten, fruits à coque, oeufs et soja</p></li>\r\n</ul>",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/chocolat-francais-joconde/e0cdd9c6-c269-4f4d-9ade-e44b7979c347.jpeg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/chocolat-francais-joconde/c887aeae-ccf3-475e-aed7-e8ba2223b6f2.jpeg",
+            "media_type": "image"
+          }
+        ],
+        "name": "Le Chocolat des Français caramel & sel de Guérande",
+        "price_data": [
+          {
+            "price_pennies": 900,
+            "price_pennies_discounted": 900,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 900,
+            "price_pennies_discounted": 900
+          }
+        ],
+        "slug": "chocolat-francais-joconde",
+        "addon_kind": "default",
+        "appearing_from": "2021-02-03T00:00:00.000+00:00",
+        "appearing_to": "2021-09-29T00:00:00.000+01:00",
+        "deliverable_from": "2021-02-09",
+        "deliverable_to": "2021-09-30",
+        "tags": [
+          "gifts-for-sisters",
+          "gifts-by-post",
+          "gifts-for-mother-in-laws",
+          "flowers-for-mum",
+          "graduation-flowers",
+          "flower-birthday-gift",
+          "fresh flowers",
+          "boxed-flowers",
+          "flowers-in-a-box"
+        ],
+        "available_to_select": false,
+        "is_selected": true
+      }
+    },
+    {
+      "id": "3319",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "Une crème de soin pour les mains délicatement parfumée à la rose enrichie en huile d’argan, aloe vera et beurre de karité. Un cadeau merveilleux pour toutes les occasions. </br>\r\n\r\n<ul>\r\n<li><p>30 ml crème de soin pour les mains Fragonard</li></p>\r\n</ul>",
+        "eighteen_plus": false,
+        "long_description": "Une crème de soin pour les mains délicatement parfumée à la rose enrichie en huile d’argan, aloe vera et beurre de karité. Un cadeau merveilleux pour toutes les occasions. </br>\r\n\r\n<ul>\r\n<li><p>30 ml crème de soin pour les mains Fragonard</li></p>\r\n</ul>",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/fragonard-creme/ebb72dc5-72be-4eb4-a8b3-114ebdee5894.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/fragonard-creme/2969e08f-0e5c-4d85-a0b6-7d5624887025.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "Fragonard Crème",
+        "price_data": [
+          {
+            "price_pennies": 900,
+            "price_pennies_discounted": 900,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 900,
+            "price_pennies_discounted": 900
+          }
+        ],
+        "slug": "fragonard-creme",
+        "addon_kind": "default",
+        "appearing_from": "2020-11-17T00:00:00.000+00:00",
+        "appearing_to": "2021-05-22T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-06",
+        "deliverable_to": "2021-05-23",
+        "tags": [
+          "offrir-des-fleurs",
+          "fleurs-anniversaire-mariage",
+          "commander-fleurs-en-ligne",
+          "livraison-fleurs-gratuites",
+          "livraison-fleurs-domicile",
+          "livraison-fleurs-travail",
+          "coffret-cadeau-fleurs",
+          "gerbe-fleurs",
+          "soldes-ete",
+          "black-friday"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "694",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "Ajoutez cet adorable petit lapin gris à votre bouquet pour un cadeau parfait à l'occasion d'une naissance ou pour féliciter une jeune maman. Bébé sera ravi ! Très très doux, il convient aux plus petits. Ce petit lapin en peluche deviendra à coup sûr, le favori.",
+        "eighteen_plus": false,
+        "long_description": "Ajoutez cet adorable petit lapin gris à votre bouquet pour un cadeau parfait à l'occasion d'une naissance ou pour féliciter une jeune maman. Bébé sera ravi ! Très très doux, il convient aux plus petits. Ce petit lapin en peluche deviendra à coup sûr, le favori.",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/lapin-gris-fr/f936f40b-524c-4dab-bd1f-187244cb845a.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/lapin-gris-fr/5b8e350f-0efe-4d96-bd4b-cd216f45b759.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "Lapin gris",
+        "price_data": [
+          {
+            "price_pennies": 1200,
+            "price_pennies_discounted": 1200,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 1200,
+            "price_pennies_discounted": 1200
+          }
+        ],
+        "slug": "lapin-gris-fr",
+        "addon_kind": "default",
+        "appearing_from": "2018-01-05T00:00:00.000+00:00",
+        "appearing_to": "2021-06-25T00:00:00.000+01:00",
+        "deliverable_from": "2020-04-02",
+        "deliverable_to": "2021-10-09",
+        "tags": [
+          "offrir-des-fleurs",
+          "fleurs-anniversaire-mariage",
+          "commander-fleurs-en-ligne",
+          "livraison-fleurs-gratuites",
+          "livraison-fleurs-domicile",
+          "livraison-fleurs-travail",
+          "coffret-cadeau-fleurs",
+          "gerbe-fleurs",
+          "soldes-ete",
+          "black-friday"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3675",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR bonne fete",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/358d2a44-c2d9-4df5-86bb-d89152dfc8b9.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/d3266470-87ad-493d-93d9-e916a24d24bb.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR bonne fete",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-bonne-fete",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [
+          "grandmothers-day-opt-out"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3694",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR Happy Birthday Abstract",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/c5c6d5c4-eac6-4f3d-a504-d21115b292bf.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/52dc28f9-bfe9-4556-8911-2e08e580de85.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR Happy Birthday Abstract",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-happy-birthday-abstract",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3540",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR abstract yellow",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/b8d809a5-43ad-4bc2-a040-c63f6b4f9bf6.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/666efa4f-f833-456c-bfd1-3768aa1cb3d5.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR abstract yellow",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-abstract-yellow",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-01-26T00:00:00.000+00:00",
+        "appearing_to": "2022-01-26T00:00:00.000+00:00",
+        "deliverable_from": "2021-01-26",
+        "deliverable_to": "2022-01-26",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3695",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR Felicitations Abstract",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/645a5ead-5e29-42f5-8200-b9cdd81ba342.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/c8a8a210-157f-4d20-ac84-ae9d1d830f9f.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR Felicitations Abstract",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-felicitations-abstract",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3724",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR De Quoi Te Faire Sourire",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/f00b1fc9-05f4-4e81-9f6b-a67d2aaa8b6d.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/a4d78f2f-3cd8-45d4-87ab-da8bbbf664c6.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR De Quoi Te Faire Sourire",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-de-quoi-te-faire-sourire",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3725",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR Merci",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/7e0509be-8044-4227-9b36-3e26f5291e05.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/79c7347f-d3f7-4d7c-8d18-adce2435070e.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR Merci",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-merci",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3752",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR Une Pensee Affectueuse",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/5da59342-5b43-47d5-bcd1-ab7596523fa1.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/8dc63695-6ee7-4e4a-87cc-1231f7a94a25.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR Une Pensee Affectueuse",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-thinking-of-you",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3849",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR Happy Birthday ENG",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/375f9763-825f-4601-b6f4-b5daa76761a9.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/7c1f7d42-708c-4978-987e-36b984872dda.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR Happy Birthday ENG",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-happy-birthday-eng",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-23T00:00:00.000+00:00",
+        "appearing_to": "2022-03-23T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-23",
+        "deliverable_to": "2022-03-23",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "4007",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR Pivoines",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/49d15fb3-815f-428e-b540-9ef7b1279716.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/5fc6b4f3-d896-455a-bac1-751cab98656a.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR Pivoines",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-pivoines",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-26T00:00:00.000+01:00",
+        "appearing_to": "2022-04-26T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-26",
+        "deliverable_to": "2022-04-26",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3676",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "Felicitations",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/74433f3c-bef3-470d-a25f-eff9ddaef925.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/f40920a4-f58d-48e2-97a1-a918d249fa9a.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "Felicitations",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "felicitations",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3718",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR Merci d'etre la Meilleure",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/5c6ec54d-67b7-4d5e-ad20-339f477e4301.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/50a891c0-3b5a-4364-a279-14e6fb81a0d7.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR Merci d'etre la Meilleure",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-merci-d-etre-la-meilleure",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3722",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR Je Te Serre Dans Mes Bras",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/5883a324-9b72-4a79-8498-b10d6ad92982.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/1920c08a-65e5-46dc-9e95-af1121281390.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR Je Te Serre Dans Mes Bras",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-je-te-serre-dans-mes-bras",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3728",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR Tu Me Manques Beaucoup",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/2079bdab-8de3-4d26-ba72-ebc9fc48899f.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/1b22ede8-f8c0-44a1-b05f-d5d37965a546.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR Tu Me Manques Beaucoup",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-tu-me-manques-beaucoup",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3726",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR Prends Soin De Toi",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/66a796da-7a50-4224-a079-cfdb3a9529a3.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/31d7f72f-2f4b-41e1-b555-f69a6f493881.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR Prends Soin De Toi",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-prends-soin-de-toi",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3729",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "30 FR",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/ce1c5b9f-4d19-419b-b348-07bfc73bc4ec.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/ab607c5c-9430-4cdd-8c02-e73d42461acc.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "30 FR",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "30-fr",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3721",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR Avec Toi de Tout Coeur",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/1ce403d9-ad85-45a7-bfde-0519c90a3bed.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/2e3bf2ed-5f7f-418d-ace4-17d42a9e1be0.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR Avec Toi de Tout Coeur",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-avec-toi-de-tout-coeur",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3727",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "FR Plein de Courage",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/38a02e66-43a0-4e1b-abe1-cd7814294706.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/a228d7c2-0d06-4e1c-badb-32a1d015d86f.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "FR Plein de Courage",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "fr-plein-de-courage",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    }
+  ]
+}

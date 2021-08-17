@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": "3897",
+    "type": "sku_details",
+    "attributes": {
+      "description_components": [],
+      "reviews": [
+        {
+          "date": "2021-05-03T00:00:00+01:00",
+          "rating": 5,
+          "review": "Die Blumen wurden für meine Tochter zum Geburtstag gekauft. Die Lieferung kam pünktlich an. Blumen sehr frisch, schön. Die Vase ist wunderschön. Ich bin sehr zufrieden und meine Tochter auch.",
+          "reviewer": "79ea3af6deefd477337e11cd4c2e1193 7264996c54ac6e00f864e0e3e0cfec29",
+          "title": null
+        },
+        {
+          "date": "2021-04-26T00:00:00+01:00",
+          "rating": 4.67,
+          "review": "Sehr schöne Blumen und pünktliche Lieferung. Leider waren 2 Blumen direkt am Kopf abgebrochen.",
+          "reviewer": "0bae0d581869e72fab4fb787b2911433 b4ffbb28725ede5d030d3521c8a87150",
+          "title": null
+        }
+      ],
+      "average_rating": 4.835,
+      "long_description": "<b>Dürfen wir vorstellen?</b><br>\r\n\r\nSunniva ist Lebensfreude pur. Strahlende Sonnenblumen, leuchtend gelbe Solidago und ein beeindruckendes Blütenspiel. Überrasche jemanden, der dringend einen kleinen Gute-Laune-Boost braucht.\r\n <br>\r\n<ul>\r\n<li><p>Die Fokus-Blumen in diesem Strauß: Sonnenblume, Solidago, Levkojen</p></li>\r\n<li><p><b>Wir bemühen uns, die Blumensorten zu versenden, die wir dir hier vorstellen. \r\nAufgrund der momentanen Situation kann es derzeit aber zum Austausch von einzelnen Blumen im Bouquet kommen. </b></p></li>\r\n<li><p>Von unseren Floristen liebevoll <b>von Hand gebunden</b></p></li>\r\n  <li><p>Inkl. Pflege- und Arrangieranleitung für traumhafte, langlebige Blumenfreude </p></li>\r\n  <li><p><b>Kostenloser Versand </b></p></li>\r\n  <li><p><b>Gratis-Grußkarte </b></p></li>\r\n  <li><p>Zudem kannst du im Bestellverlauf ein kleines Geschenk hinzufügen.</p></li>\r\n</ul>",
+      "seo_title": null
+    }
+  }
+}

@@ -1,0 +1,189 @@
+[
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/availability/products?first_item_in_purchase=true&locale=de&shipping_country_id=6",
+    "fixture": "german-site-order/0.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v1/config?locale=de",
+    "fixture": "german-site-order/1.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/skus/3897/details?locale=de&reviews_limit=12&shipping_country_id=6",
+    "fixture": "german-site-order/2.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/segments/content_segments?locale=de",
+    "fixture": "german-site-order/3.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/contents?filter%5Bname%5D=service_bar_on_going,service_bar_overrides,burger,navbar_links,navbar_sublinks,topLink,price_filters,mega_nav_links,mega_nav_links_exp_v1,mega_nav_links_exp_v2,visual_nav&locale=de",
+    "fixture": "german-site-order/4.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/favourite_skus?locale=de&shipping_country_id=6",
+    "fixture": "german-site-order/5.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/availability/delivery_dates?days=41&from_date=2021-05-01&locale=de&shipping_country_id=6&sku_id=3897",
+    "fixture": "german-site-order/6.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/availability/sku_addons?delivery_date=2021-05-15&enable_addon_kinds=true&enable_addon_vase_kind=false&first_item_in_purchase=true&locale=de&multi_addons=true&primary_sku_id=3897&shipping_country_id=6",
+    "fixture": "german-site-order/7.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/availability/sku_addons?delivery_date=2021-05-15&enable_addon_kinds=true&enable_addon_vase_kind=false&first_item_in_purchase=true&locale=de&multi_addons=true&primary_sku_id=3897&selected_addon_skus%5B%5D=fday-choc--&selected_addon_skus%5B%5D=peony-handheld&shipping_country_id=6",
+    "fixture": "german-site-order/8.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/availability/delivery_dates?days=41&from_date=2021-05-01&locale=de&postcode=40213&shipping_country_id=6&sku_id=3897",
+    "fixture": "german-site-order/9.json"
+  },
+  {
+    "method": "POST",
+    "url": "https://de.bloomdev.org/api/v1/users?locale=de",
+    "fixture": "german-site-order/10.json"
+  },
+  {
+    "method": "GET",
+    "times": 1,
+    "url": "https://de.bloomdev.org/api/v1/addresses?locale=de",
+    "fixture": "german-site-order/11.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/segments/content_segments?locale=de&user_slug=sunniva-de-ht",
+    "fixture": "german-site-order/12.json"
+  },
+  {
+    "method": "POST",
+    "url": "https://de.bloomdev.org/api/v1/email_addresses?locale=de",
+    "fixture": "german-site-order/13.json"
+  },
+  {
+    "method": "POST",
+    "url": "https://de.bloomdev.org/api/v1/addresses/dhl_check?locale=de",
+    "fixture": "german-site-order/14.json"
+  },
+  {
+    "method": "POST",
+    "url": "https://de.bloomdev.org/api/v3/purchases?gift_card_as_addon=true&include=code,orders,orders.shipping_address,orders.product,orders.sku,orders.addon_skus,orders.shipping_option&locale=de",
+    "fixture": "german-site-order/15.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v1/cards?locale=de",
+    "fixture": "german-site-order/16.json"
+  },
+  {
+    "method": "GET",
+    "times": 2,
+    "url": "https://de.bloomdev.org/api/v1/addresses?locale=de",
+    "fixture": "german-site-order/17.json"
+  },
+  {
+    "method": "GET",
+    "times": 1,
+    "url": "https://de.bloomdev.org/api/v1/users?locale=de",
+    "fixture": "german-site-order/18.json"
+  },
+  {
+    "method": "GET",
+    "times": 1,
+    "url": "https://de.bloomdev.org/api/v3/purchases/11639441?gift_card_as_addon=true&include=code,orders,orders.shipping_address,orders.product,orders.sku,orders.addon_skus,orders.shipping_option&locale=de",
+    "fixture": "german-site-order/19.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/availability/products?first_item_in_purchase=false&locale=de&shipping_country_id=6",
+    "fixture": "german-site-order/20.json"
+  },
+  {
+    "method": "PUT",
+    "times": 1,
+    "url": "https://de.bloomdev.org/api/v3/purchases/11639441?gift_card_as_addon=true&include=code,orders,orders.shipping_address,orders.product,orders.sku,orders.addon_skus,orders.shipping_option&locale=de",
+    "fixture": "german-site-order/21.json"
+  },
+  {
+    "method": "DELETE",
+    "url": "https://de.bloomdev.org/api/v1/addresses/11100666?locale=de",
+    "fixture": "german-site-order/22.json"
+  },
+  {
+    "method": "POST",
+    "url": "https://de.bloomdev.org/api/v1/addresses?locale=de",
+    "fixture": "german-site-order/23.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v1/addresses?locale=de",
+    "fixture": "german-site-order/24.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/availability/sku_addons?delivery_date=2021-05-15&enable_addon_kinds=true&enable_addon_vase_kind=false&first_item_in_purchase=true&locale=de&multi_addons=true&primary_sku_id=3897&selected_addon_skus%5B%5D=peony-handheld&shipping_country_id=6",
+    "fixture": "german-site-order/25.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v2/availability/sku_addons?delivery_date=2021-05-18&enable_addon_kinds=true&enable_addon_vase_kind=false&first_item_in_purchase=true&locale=de&multi_addons=true&primary_sku_id=3897&selected_addon_skus%5B%5D=peony-handheld&shipping_country_id=6",
+    "fixture": "german-site-order/26.json"
+  },
+  {
+    "method": "PUT",
+    "url": "https://de.bloomdev.org/api/v3/purchases/11639441?gift_card_as_addon=true&include=code,orders,orders.shipping_address,orders.product,orders.sku,orders.addon_skus,orders.shipping_option&locale=de",
+    "fixture": "german-site-order/27.json"
+  },
+  {
+    "method": "GET",
+    "times": 1,
+    "url": "https://de.bloomdev.org/api/v3/purchases/11639441?gift_card_as_addon=true&include=code,orders,orders.shipping_address,orders.product,orders.sku,orders.addon_skus,orders.shipping_option&locale=de",
+    "fixture": "german-site-order/28.json"
+  },
+  {
+    "method": "GET",
+    "times": 1,
+    "url": "https://de.bloomdev.org/api/v1/users?locale=de",
+    "fixture": "german-site-order/29.json"
+  },
+  {
+    "method": "POST",
+    "url": "https://de.bloomdev.org/api/v1/cards?locale=de&purchase_id=11639441",
+    "fixture": "german-site-order/30.json"
+  },
+  {
+    "method": "POST",
+    "url": "https://de.bloomdev.org/api/v3/purchases/11639441/validate?gift_card_as_addon=true&locale=de",
+    "fixture": "german-site-order/31.json"
+  },
+  {
+    "method": "PUT",
+    "url": "https://de.bloomdev.org/api/v3/purchases/11639441/initiate_payment?gift_card_as_addon=true&locale=de",
+    "fixture": "german-site-order/32.json"
+  },
+  {
+    "method": "POST",
+    "url": "https://api.stripe.com/v1/payment_intents/pi_1IqejrKoz4lNOAHNkNS5ivUT/confirm",
+    "fixture": "german-site-order/33.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v3/purchases/11639441?gift_card_as_addon=true&include=code,orders,orders.shipping_address,orders.product,orders.sku,orders.addon_skus,orders.shipping_option&locale=de",
+    "fixture": "german-site-order/34.json"
+  },
+  {
+    "method": "GET",
+    "url": "https://de.bloomdev.org/api/v1/users?locale=de",
+    "fixture": "german-site-order/35.json"
+  }
+]

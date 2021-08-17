@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "id": "11",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "occasions",
+        "values": [
+          {
+            "key": "birthday",
+            "value": "Anniversaire",
+            "metadata": {}
+          },
+          {
+            "key": "thank-yous",
+            "value": "Remerciements",
+            "metadata": {}
+          },
+          {
+            "key": "romance",
+            "value": "Amour",
+            "metadata": {}
+          },
+          {
+            "key": "new-baby",
+            "value": "Naissance",
+            "metadata": {}
+          },
+          {
+            "key": "wedding",
+            "value": "Mariage",
+            "metadata": {}
+          },
+          {
+            "key": "sympathy",
+            "value": "Deuil",
+            "metadata": {}
+          },
+          {
+            "key": "gift-ideas",
+            "value": "Idées Cadeaux",
+            "metadata": {}
+          },
+          {
+            "key": "mother-s-day",
+            "value": "Fête des mères",
+            "metadata": "mothers-day-opt-out"
+          }
+        ],
+        "shipping_country_id": 5
+      }
+    },
+    {
+      "id": "10",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "colours",
+        "values": [
+          {
+            "key": "white",
+            "value": "Blanc",
+            "metadata": {}
+          },
+          {
+            "key": "pastels",
+            "value": "Pastels",
+            "metadata": {}
+          },
+          {
+            "key": "bright",
+            "value": "Colorés",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 5
+      }
+    },
+    {
+      "id": "12",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "packaging",
+        "values": [
+          {
+            "key": "handtied",
+            "value": "Bouquet Tout Prêt",
+            "metadata": {}
+          },
+          {
+            "key": "letterbox",
+            "value": "Bouquet DIY",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 5
+      }
+    }
+  ]
+}

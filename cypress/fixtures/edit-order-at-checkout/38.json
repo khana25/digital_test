@@ -1,0 +1,16 @@
+{
+  "card": {
+    "id": 7583777,
+    "token": "card_1InMBGKoz4lNOAHNWWPEaAuF",
+    "last4": "4242",
+    "exp_month": 10,
+    "exp_year": 2025,
+    "brand": "Visa",
+    "user_id": 4562011,
+    "created_at": "2021-05-04T12:12:47.735+01:00",
+    "updated_at": "2021-05-04T12:12:47.767+01:00",
+    "kind": "card",
+    "name": "Visa ending 4242 (exp. 10/25)",
+    "temporary": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10982524,
+  "alias": null,
+  "line1": "123",
+  "line2": "Testing Street",
+  "postcode": "CR4 1DN",
+  "city": "Test City",
+  "country": "GB",
+  "created_at": "2021-05-04T12:12:37.967+01:00",
+  "updated_at": "2021-05-04T12:12:37.967+01:00",
+  "name": "Aaron Haworth",
+  "company": null,
+  "postcode_anywhere_uid": null,
+  "email": null,
+  "shipping_country_id": 1,
+  "phone_number": null,
+  "door_code": "",
+  "building_number": "",
+  "floor": "",
+  "apartment_number": ""
+}

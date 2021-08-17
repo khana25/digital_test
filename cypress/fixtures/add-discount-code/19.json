@@ -1,0 +1,13 @@
+{
+  "id": "b696d2f6a69980aec18cf8400ff4c9ab",
+  "email_preference": 3,
+  "unsubscribed": false,
+  "code": null,
+  "email_sha256": "2ce27873dd5b290670bc82e8627bebbdb3486440dc54db011c90e7a8a55edb9c",
+  "content_preferences": {
+    "fathers_day": 1,
+    "valentines_day": 1,
+    "grandparents_day": 1,
+    "mothers_day": 1
+  }
+}

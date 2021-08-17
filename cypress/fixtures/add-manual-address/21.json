@@ -1,0 +1,33 @@
+{
+  "data": {
+    "id": "11519387",
+    "type": "purchases",
+    "attributes": {
+      "created_at": "2021-05-04T16:12:33.367+01:00",
+      "total_cost_pennies": 3200,
+      "total_cost_pre_discount_pennies": 3200,
+      "use_credit": false,
+      "password_reset_token": "A8d91NvgzHUaExL71gv-",
+      "state": "pending",
+      "currency": "GBP",
+      "credited_pennies": 0,
+      "credited_currency": "GBP",
+      "locale": "en",
+      "payment_client_secret": null,
+      "source": "Website"
+    },
+    "relationships": {
+      "orders": {
+        "data": [
+          {
+            "id": "123310929",
+            "type": "orders"
+          }
+        ]
+      },
+      "code": {
+        "data": null
+      }
+    }
+  }
+}

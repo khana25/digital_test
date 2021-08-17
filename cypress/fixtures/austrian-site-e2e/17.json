@@ -1,0 +1,25 @@
+{
+  "addresses": [
+    {
+      "id": 10982685,
+      "alias": null,
+      "line1": "123",
+      "line2": "Testing Street",
+      "postcode": "5123",
+      "city": "City Test",
+      "country": "AT",
+      "created_at": "2021-05-04T16:46:17.454+01:00",
+      "updated_at": "2021-05-04T16:46:17.454+01:00",
+      "name": "George Kassing",
+      "company": null,
+      "postcode_anywhere_uid": null,
+      "email": null,
+      "shipping_country_id": 7,
+      "phone_number": null,
+      "door_code": null,
+      "building_number": null,
+      "floor": null,
+      "apartment_number": null
+    }
+  ]
+}

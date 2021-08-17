@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "id": "182",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/peggy-kate-peonies-in-hands/007b445ece2f46217582b8f3a3f76b7d.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "475",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/abstract-hey-you-re-kind-of-wonderful/25809c94fb55623c6d59fdab4edf5d4c.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "474",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/abstract-congratulations/f953b92bbf24d96b27d7bcab051a8df7.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "621",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/uk-peonies/5de30dc0f86232c2771e109813cb4761.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "558",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/happy-birthday-purple/8e179185ff037ca5c32f7673a1530df0.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "442",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/uk-happy-birthday/fd5d3aed66914411cb0ec7f1f5ccf7b3.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "556",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/candles/9685c6f04c11e96458e2b8db4547b3d2.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "534",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/lots-of-love-hearts/083b8587552465e103ffa04e82e03bf2.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "530",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/mother-s-day-hearts-2021/e8b3f68eb23627a86d6b0b0103e517d6.jpg",
+        "tags": [
+          "mothers-day-opt-out"
+        ]
+      }
+    },
+    {
+      "id": "559",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/thank-you-red/4c37017d1bb56aef1e7baa9b8f851b81.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "445",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/uk-you-did-it/723f930d4bf4bdf9fd1797047b8c67f4.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "533",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/good-luck/a7421e1bb48206b6e71830b2f9b0afbd.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "557",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/happy-anniversary/e9ad89f678f09677723469d599c55785.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "477",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/abstract-best-news-ever/cdde8690d515a8d5823a2436227f9e8d.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "535",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/precious-loved-remembered/5bf350f3bca901a4c8531571cb1174b3.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "176",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/peggy-kate-pink-leaf/1288c2ab519f0f8ad05fa97d3818f66a.jpg",
+        "tags": []
+      }
+    },
+    {
+      "id": "179",
+      "type": "gift_card_images",
+      "attributes": {
+        "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/gift_card_bouquet_images/peggy-kate-pink-peony/9dd3d6b717bc944589d2d6010e6d58b5.jpg",
+        "tags": []
+      }
+    }
+  ]
+}

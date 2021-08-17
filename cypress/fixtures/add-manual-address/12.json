@@ -1,0 +1,15 @@
+{
+  "registered": false,
+  "guest": false,
+  "external_id": "b68503759274e9f24de8a470eeda3310",
+  "email": "otto.lawicki4214170@bloomandwild.com",
+  "email_preference": null,
+  "content_preferences": {
+    "fathers_day": null,
+    "valentines_day": null,
+    "grandparents_day": null,
+    "mothers_day": null
+  },
+  "has_ordered": false,
+  "email_sha256": "2637a800a14403d9b2e4caaf03691be77f81513fbd86bc661d864746ed015df6"
+}

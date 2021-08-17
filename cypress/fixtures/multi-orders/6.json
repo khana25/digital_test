@@ -1,0 +1,336 @@
+{
+  "data": [
+    {
+      "id": "17",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "delivery-date",
+        "values": [
+          {
+            "key": "next-day",
+            "value": "Next day",
+            "metadata": {
+              "next-day": true
+            }
+          },
+          {
+            "key": "specific-date",
+            "value": "Specific date",
+            "metadata": {
+              "specific-date": true
+            }
+          }
+        ],
+        "shipping_country_id": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "type",
+        "values": [
+          {
+            "key": "flowers",
+            "value": "Flowers",
+            "metadata": {}
+          },
+          {
+            "key": "plants-gifts",
+            "value": "Plants & Gifts",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "colours",
+        "values": [
+          {
+            "key": "white",
+            "value": "White",
+            "metadata": {
+              "hex_color": "EEEEEE"
+            }
+          },
+          {
+            "key": "pastels",
+            "value": "Pastels",
+            "metadata": {}
+          },
+          {
+            "key": "bright",
+            "value": "Bright",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 1
+      }
+    },
+    {
+      "id": "4",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "newIn",
+        "values": [
+          {
+            "key": "newin",
+            "value": "New In",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 1
+      }
+    },
+    {
+      "id": "5",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "petFriendly",
+        "values": [],
+        "shipping_country_id": 1
+      }
+    },
+    {
+      "id": "6",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "stems",
+        "values": [
+          {
+            "key": "snapdragons",
+            "value": "Snapdragons",
+            "metadata": {}
+          },
+          {
+            "key": "stocks",
+            "value": "Stocks",
+            "metadata": {}
+          },
+          {
+            "key": "freesias",
+            "value": "Freesias",
+            "metadata": {}
+          },
+          {
+            "key": "scented",
+            "value": "Scented",
+            "metadata": {}
+          },
+          {
+            "key": "lilies",
+            "value": "Lilies",
+            "metadata": {}
+          },
+          {
+            "key": "alstroemeria",
+            "value": "Alstroemeria",
+            "metadata": {}
+          },
+          {
+            "key": "tulips",
+            "value": "Tulips",
+            "metadata": {}
+          },
+          {
+            "key": "roses",
+            "value": "Roses",
+            "metadata": {}
+          },
+          {
+            "key": "peonies",
+            "value": "Peonies",
+            "metadata": {}
+          },
+          {
+            "key": "sunflowers",
+            "value": "Sunflowers",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 1
+      }
+    },
+    {
+      "id": "7",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "occasions",
+        "values": [
+          {
+            "key": "birthday",
+            "value": "Birthday",
+            "metadata": {}
+          },
+          {
+            "key": "celebration",
+            "value": "Celebration",
+            "metadata": {}
+          },
+          {
+            "key": "thank-you",
+            "value": "Thank you",
+            "metadata": {}
+          },
+          {
+            "key": "romantic",
+            "value": "Romantic",
+            "metadata": {}
+          },
+          {
+            "key": "just-because",
+            "value": "Just Because",
+            "metadata": {}
+          },
+          {
+            "key": "sympathy",
+            "value": "Sympathy",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 1
+      }
+    },
+    {
+      "id": "8",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "style",
+        "values": [
+          {
+            "key": "wild",
+            "value": "Wild",
+            "metadata": {}
+          },
+          {
+            "key": "classic",
+            "value": "Classic",
+            "metadata": {}
+          },
+          {
+            "key": "luxury",
+            "value": "Luxury",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 1
+      }
+    },
+    {
+      "id": "16",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "price-range",
+        "values": [
+          {
+            "key": "under-30",
+            "value": "Under £30",
+            "metadata": {
+              "min_price": -1,
+              "max_price": 3000,
+              "visible": true
+            }
+          },
+          {
+            "key": "30-40",
+            "value": "£30 - £40",
+            "metadata": {
+              "min_price": 3000,
+              "max_price": 4000,
+              "visible": true
+            }
+          },
+          {
+            "key": "over-40",
+            "value": "Over £40",
+            "metadata": {
+              "min_price": 4000,
+              "max_price": -1,
+              "visible": true
+            }
+          }
+        ],
+        "shipping_country_id": 1
+      }
+    },
+    {
+      "id": "21",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "plantSuperPowers",
+        "values": [
+          {
+            "key": "hard-to-kill",
+            "value": "Hard to kill",
+            "metadata": {}
+          },
+          {
+            "key": "air-purifying",
+            "value": "Air purifying",
+            "metadata": {}
+          },
+          {
+            "key": "pet-friendly",
+            "value": "Pet friendly",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "packaging",
+        "values": [
+          {
+            "key": "letterbox",
+            "value": "Letterbox",
+            "metadata": {}
+          },
+          {
+            "key": "hand-tied",
+            "value": "Hand-tied",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 1
+      }
+    },
+    {
+      "id": "22",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "plantNeeds",
+        "values": [
+          {
+            "key": "direct-sunlight",
+            "value": "Direct sunlight",
+            "metadata": {}
+          },
+          {
+            "key": "high-light",
+            "value": "High light",
+            "metadata": {}
+          },
+          {
+            "key": "medium-light",
+            "value": "Medium light",
+            "metadata": {}
+          },
+          {
+            "key": "low-light",
+            "value": "Low light",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 1
+      }
+    }
+  ]
+}

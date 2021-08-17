@@ -1,0 +1,1030 @@
+{
+  "data": [
+    {
+      "id": "2021-05-04",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-05-05",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-04T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-06",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-05T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-04T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-07",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-06T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-05T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-08",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-05-09",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-05-10",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-05-11",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-10T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-12",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-11T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-10T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-13",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-05-14",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-12T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false,
+            "subsequent_deliveries_option": {
+              "carrier_logo_url": null,
+              "currency": "EUR",
+              "cutoff": "2021-05-12T13:45:00.000Z",
+              "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+              "gift_card_editable": true,
+              "has_slots": false,
+              "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+              "name": "Chronopost (Livraison gratuite)",
+              "note_length": 32,
+              "phone_number_required": false,
+              "price": 0,
+              "shipping_option_id": 2616,
+              "show_gift_card_fields": true,
+              "show_phone_number_field": false
+            }
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-12T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-15",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-14T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3843,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-16",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-05-17",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-05-18",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-17T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-19",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-18T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-17T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-20",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-19T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-18T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-21",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-20T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-19T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-22",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-21T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3843,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-20T14:00:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3957,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-23",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-05-24",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-05-25",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-05-26",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-25T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-27",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-26T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-25T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-28",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-27T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "La livraison pourra intervenir à toute heure et jusqu’à 18h. Vous souhaitez une livraison plus tôt ? Optez pour une livraison le 27.",
+            "name": "Chronopost",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 300,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false,
+            "subsequent_deliveries_option": {
+              "carrier_logo_url": null,
+              "currency": "EUR",
+              "cutoff": "2021-05-27T13:45:00.000Z",
+              "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+              "gift_card_editable": true,
+              "has_slots": false,
+              "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+              "name": "Chronopost (Livraison gratuite)",
+              "note_length": 32,
+              "phone_number_required": false,
+              "price": 0,
+              "shipping_option_id": 2616,
+              "show_gift_card_fields": true,
+              "show_phone_number_field": false
+            }
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-26T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Nous envoyons votre colis en avance pour éviter les retards, mais il se peut qu’il arrive le 1er Juin. Vous voulez vous assurer d’une livraison à temps pour ce week-end ? Choisissez une livraison pour le 27.",
+            "name": "Chronopost",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false,
+            "subsequent_deliveries_option": {
+              "carrier_logo_url": null,
+              "currency": "EUR",
+              "cutoff": "2021-05-26T13:45:00.000Z",
+              "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+              "gift_card_editable": true,
+              "has_slots": false,
+              "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+              "name": "Chronopost (Livraison gratuite)",
+              "note_length": 32,
+              "phone_number_required": false,
+              "price": 0,
+              "shipping_option_id": 3696,
+              "show_gift_card_fields": true,
+              "show_phone_number_field": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-29",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-28T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "La livraison pourra intervenir à toute heure et jusqu’à 18h. Vous souhaitez une livraison plus tôt ? Optez pour une livraison le 27.",
+            "name": "Chronopost",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 600,
+            "shipping_option_id": 3843,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false,
+            "subsequent_deliveries_option": {
+              "carrier_logo_url": null,
+              "currency": "EUR",
+              "cutoff": "2021-05-28T13:45:00.000Z",
+              "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+              "gift_card_editable": true,
+              "has_slots": false,
+              "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+              "name": "Chronopost (Livraison gratuite)",
+              "note_length": 32,
+              "phone_number_required": false,
+              "price": 0,
+              "shipping_option_id": 3843,
+              "show_gift_card_fields": true,
+              "show_phone_number_field": false
+            }
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-27T14:00:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Nous envoyons votre colis en avance pour éviter les retards, mais il se peut qu’il arrive le 1er Juin. Vous voulez vous assurer d’une livraison à temps pour ce week-end ? Choisissez une livraison pour le 27.",
+            "name": "Chronopost",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3957,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false,
+            "subsequent_deliveries_option": {
+              "carrier_logo_url": null,
+              "currency": "EUR",
+              "cutoff": "2021-05-27T14:00:00.000Z",
+              "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+              "gift_card_editable": true,
+              "has_slots": false,
+              "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+              "name": "Chronopost",
+              "note_length": 32,
+              "phone_number_required": false,
+              "price": 0,
+              "shipping_option_id": 3957,
+              "show_gift_card_fields": true,
+              "show_phone_number_field": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-05-30",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-05-31",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-06-01",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-31T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-06-02",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-06-01T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-05-31T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-06-03",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-06-02T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-06-01T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-06-04",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-06-03T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-06-02T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-06-05",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-06-04T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3843,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-06-03T14:00:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3957,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-06-06",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-06-07",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": []
+      }
+    },
+    {
+      "id": "2021-06-08",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-06-07T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-06-09",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-06-08T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-06-07T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "2021-06-10",
+      "type": "delivery_dates",
+      "attributes": {
+        "delivery_date_options": [
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-06-09T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 2616,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          },
+          {
+            "carrier_logo_url": null,
+            "currency": "EUR",
+            "cutoff": "2021-06-08T13:45:00.000Z",
+            "delivery_pill": "Le colis peut arriver 24h en avance/retard",
+            "gift_card_editable": true,
+            "has_slots": false,
+            "message": "Veuillez noter qu'en raison des limitations de livraison actuelles, votre bouquet peut arriver avec un 1 jour d'avance ou de retard. Pour aider votre livreur à trouver son destinataire, veuillez nous fournir un numéro de téléphone portable et un endroit sûr ou déposer les fleurs en cas d'absence.",
+            "name": "Chronopost (Livraison gratuite)",
+            "note_length": 32,
+            "phone_number_required": false,
+            "price": 0,
+            "shipping_option_id": 3696,
+            "show_gift_card_fields": true,
+            "show_phone_number_field": false
+          }
+        ]
+      }
+    }
+  ]
+}

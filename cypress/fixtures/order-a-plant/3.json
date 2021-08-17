@@ -1,0 +1,26 @@
+{
+  "review_stats": {
+    "average_rating": "4.86",
+    "count": 42942,
+    "last_two": [
+      {
+        "reviewer": "be8eb9f102e94f97db27fe2aa5ffe88a d49e38fcab97be35f5a94f477700dce9",
+        "date": "2021-04-29T20:37:05.000+01:00",
+        "title": "Having received some myself last year…",
+        "review": "Having received some myself last year following an operation, I was so impressed with them, that I decided they were the flowers to send in the future.",
+        "rating": 5,
+        "sku_id": 3300,
+        "review_user_images": []
+      },
+      {
+        "reviewer": "9f426e96e4dc395d2c5f4359e80d1331 d2917f5c6573346ff0f7bbb08a986a89",
+        "date": "2021-04-29T18:10:52.000+01:00",
+        "title": "Lovely flowers delivered next day",
+        "review": "Lovely flowers delivered next day, lasted a week so far, very impressed.",
+        "rating": 5,
+        "sku_id": 3376,
+        "review_user_images": []
+      }
+    ]
+  }
+}

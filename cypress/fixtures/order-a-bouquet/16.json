@@ -1,0 +1,15 @@
+{
+  "registered": false,
+  "guest": false,
+  "external_id": "90a1fe78c788a731692f8fae382ab33c",
+  "email": "adam.nugent44353268@bloomandwild.com",
+  "email_preference": null,
+  "content_preferences": {
+    "fathers_day": null,
+    "valentines_day": null,
+    "grandparents_day": null,
+    "mothers_day": null
+  },
+  "has_ordered": false,
+  "email_sha256": "98d787aef44f3c39bd25db5d023b55f3b76a3c73926424dbacbe7fab70cb1f62"
+}

@@ -1,0 +1,25 @@
+{
+  "addresses": [
+    {
+      "id": 9433049,
+      "alias": null,
+      "line1": "1 Barnfield Avenue",
+      "line2": null,
+      "postcode": "CR4 1DN",
+      "city": "Mitcham",
+      "country": "GB",
+      "created_at": "2021-03-17T10:05:08.081+00:00",
+      "updated_at": "2021-03-17T10:05:08.081+00:00",
+      "name": "Ms. Camille Nolan",
+      "company": null,
+      "postcode_anywhere_uid": "GB|RM|A|5424408",
+      "email": null,
+      "shipping_country_id": 1,
+      "phone_number": null,
+      "door_code": null,
+      "building_number": null,
+      "floor": null,
+      "apartment_number": null
+    }
+  ]
+}

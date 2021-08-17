@@ -1,0 +1,30 @@
+{
+  "id": "pi_1InMBIKoz4lNOAHNRh6s1Dcf",
+  "object": "payment_intent",
+  "allowed_source_types": [
+    "card"
+  ],
+  "amount": 3200,
+  "canceled_at": null,
+  "cancellation_reason": null,
+  "capture_method": "automatic",
+  "client_secret": "pi_1InMBIKoz4lNOAHNRh6s1Dcf_secret_4H2FhzOeskpHxM0f8AlEp6Ki1",
+  "confirmation_method": "automatic",
+  "created": 1620126768,
+  "currency": "gbp",
+  "description": null,
+  "last_payment_error": null,
+  "livemode": false,
+  "next_action": null,
+  "next_source_action": null,
+  "payment_method": "card_1InMBGKoz4lNOAHNWWPEaAuF",
+  "payment_method_types": [
+    "card"
+  ],
+  "receipt_email": null,
+  "return_url": null,
+  "setup_future_usage": "off_session",
+  "shipping": null,
+  "source": null,
+  "status": "succeeded"
+}

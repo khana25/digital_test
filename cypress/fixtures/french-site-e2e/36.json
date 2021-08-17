@@ -1,0 +1,30 @@
+{
+  "id": "pi_1InMvaKoz4lNOAHNY9zZMVL9",
+  "object": "payment_intent",
+  "allowed_source_types": [
+    "card"
+  ],
+  "amount": 3240,
+  "canceled_at": null,
+  "cancellation_reason": null,
+  "capture_method": "automatic",
+  "client_secret": "pi_1InMvaKoz4lNOAHNY9zZMVL9_secret_Sa7WTcgIYsdCz7bC5aFtM4HTs",
+  "confirmation_method": "automatic",
+  "created": 1620129638,
+  "currency": "eur",
+  "description": null,
+  "last_payment_error": null,
+  "livemode": false,
+  "next_action": null,
+  "next_source_action": null,
+  "payment_method": "card_1InMvYKoz4lNOAHNCxrKqrqW",
+  "payment_method_types": [
+    "card"
+  ],
+  "receipt_email": null,
+  "return_url": null,
+  "setup_future_usage": "off_session",
+  "shipping": null,
+  "source": null,
+  "status": "succeeded"
+}

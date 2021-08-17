@@ -1,0 +1,15 @@
+{
+  "registered": false,
+  "guest": false,
+  "external_id": "7473e05904e6a1eabfb10d435d8fedac",
+  "email": "fred.anderson23507113@bloomandwild.com",
+  "email_preference": null,
+  "content_preferences": {
+    "fathers_day": null,
+    "valentines_day": null,
+    "grandparents_day": null,
+    "mothers_day": null
+  },
+  "has_ordered": false,
+  "email_sha256": "a12cf73cc001b411c93d43da9a1f50f16fec7ce81ead58e5708b2ea49b2510f9"
+}

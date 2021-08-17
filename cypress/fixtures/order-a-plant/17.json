@@ -1,0 +1,15 @@
+{
+  "registered": false,
+  "guest": false,
+  "external_id": "fb41cf70295cad943fcddd6748038563",
+  "email": "edward.bongard27188675@bloomandwild.com",
+  "email_preference": null,
+  "content_preferences": {
+    "fathers_day": null,
+    "valentines_day": null,
+    "grandparents_day": null,
+    "mothers_day": null
+  },
+  "has_ordered": false,
+  "email_sha256": "2e5a740fac4b5ee186089bf91fe71d591107f4fd54644f6116e169f3d2d41d66"
+}

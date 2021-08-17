@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": "18",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "packaging",
+        "values": [
+          {
+            "key": "letterbox",
+            "value": "Kreativ-Blumenbox",
+            "metadata": {}
+          },
+          {
+            "key": "handtied",
+            "value": "Blumensträuße",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 7
+      }
+    },
+    {
+      "id": "19",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "colours",
+        "values": [
+          {
+            "key": "white",
+            "value": "Weiß",
+            "metadata": {}
+          },
+          {
+            "key": "pastels",
+            "value": "Pastels",
+            "metadata": {}
+          },
+          {
+            "key": "bright",
+            "value": "Farbenfroh",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 7
+      }
+    },
+    {
+      "id": "20",
+      "type": "sku_attributes",
+      "attributes": {
+        "key": "occasions",
+        "values": [
+          {
+            "key": "birthday",
+            "value": "Geburtstag",
+            "metadata": {}
+          },
+          {
+            "key": "wedding",
+            "value": "Hochzeit",
+            "metadata": {}
+          },
+          {
+            "key": "get-well-soon",
+            "value": "Gute Besserung",
+            "metadata": {}
+          },
+          {
+            "key": "thank-you",
+            "value": "Vielen Dank",
+            "metadata": {}
+          },
+          {
+            "key": "new-baby",
+            "value": "Zur Geburt",
+            "metadata": {}
+          }
+        ],
+        "shipping_country_id": 7
+      }
+    }
+  ]
+}

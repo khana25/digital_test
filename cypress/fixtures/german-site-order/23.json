@@ -1,0 +1,21 @@
+{
+  "id": 11100667,
+  "alias": null,
+  "line1": "456",
+  "line2": "Talstr.",
+  "postcode": "40213",
+  "city": "Dusseldorf",
+  "country": "DE",
+  "created_at": "2021-05-13T14:37:54.199+01:00",
+  "updated_at": "2021-05-13T14:37:54.199+01:00",
+  "name": "Nathan Anderson",
+  "company": null,
+  "postcode_anywhere_uid": null,
+  "email": null,
+  "shipping_country_id": 6,
+  "phone_number": null,
+  "door_code": null,
+  "building_number": null,
+  "floor": null,
+  "apartment_number": null
+}

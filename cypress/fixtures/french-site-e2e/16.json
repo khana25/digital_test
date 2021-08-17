@@ -1,0 +1,25 @@
+{
+  "addresses": [
+    {
+      "id": 10982546,
+      "alias": null,
+      "line1": "5155 Besses",
+      "line2": null,
+      "postcode": "30450",
+      "city": "Ponteils Et Bresis",
+      "country": "FR",
+      "created_at": "2021-05-04T13:00:18.954+01:00",
+      "updated_at": "2021-05-04T13:00:18.954+01:00",
+      "name": "Carl Bowers",
+      "company": null,
+      "postcode_anywhere_uid": "FR|FO|A|ADRNIVX_0000000259432882",
+      "email": null,
+      "shipping_country_id": 5,
+      "phone_number": null,
+      "door_code": null,
+      "building_number": null,
+      "floor": null,
+      "apartment_number": null
+    }
+  ]
+}

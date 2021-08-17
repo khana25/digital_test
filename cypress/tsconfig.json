@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "lib": ["es2015", "dom"],
+    "types": ["cypress", "cypress-plugin-stripe-elements", "node"],
+    "baseUrl": "./",
+    "paths": {
+      "PageObjects/*": ["page-objects/*"],
+    },
+  },
+  "include": ["**/*.ts", "plugins/index.ts", "support/index.ts", "support/commands.ts"]
+}

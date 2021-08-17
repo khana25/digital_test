@@ -1,0 +1,199 @@
+{
+  "data": {
+    "id": "11519244",
+    "type": "purchases",
+    "attributes": {
+      "created_at": "2021-05-04T12:12:31.494+01:00",
+      "total_cost_pennies": 3200,
+      "total_cost_pre_discount_pennies": 3200,
+      "use_credit": false,
+      "password_reset_token": null,
+      "state": "pending",
+      "currency": "GBP",
+      "credited_pennies": 0,
+      "credited_currency": "GBP",
+      "locale": "en",
+      "payment_client_secret": null,
+      "source": "Website"
+    },
+    "relationships": {
+      "orders": {
+        "data": [
+          {
+            "id": "123310780",
+            "type": "orders"
+          }
+        ]
+      },
+      "code": {
+        "data": null
+      }
+    }
+  },
+  "included": [
+    {
+      "id": "123310780",
+      "type": "orders",
+      "attributes": {
+        "shipping_address_id": 10982524,
+        "shipping_option_id": 239,
+        "first_delivery": "2021-05-06",
+        "first_delivery_time": null,
+        "created_at": "2021-05-04T12:12:31.504+01:00",
+        "product_type": "OneOff",
+        "gift_message": "Testing in progress",
+        "shipping_note": null,
+        "sku_id": 3366,
+        "addon_sku_id": 3755,
+        "occasion_id": null,
+        "use_credit": false,
+        "currency": "GBP",
+        "state": "pending",
+        "token": "7aebf6012f24cdaf9e226dda937324b7",
+        "total_cost_pennies": 3200,
+        "total_cost_pre_discount_pennies": 3200,
+        "total_discounted_pennies": 0,
+        "total_credit_pennies": 0,
+        "gift_card_image_id": null,
+        "sku_media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/letterbox-main/the-quinn-ht/cfe4b3bf-5e6b-4e08-a557-a0ce36704a65.jpeg",
+            "media_type": "image"
+          }
+        ],
+        "addon_sku_media": [],
+        "product_duration": 1,
+        "product_frequency": 0,
+        "product_lily_free": false,
+        "first_delivery_finish_time": null,
+        "gift_card_user_image_id": null,
+        "sku_association_id": null,
+        "timeslot_id": null,
+        "is_self_purchase": true,
+        "is_sensitive": false,
+        "addon_sku_ids": [
+          3755
+        ]
+      },
+      "relationships": {
+        "product": {
+          "data": {
+            "id": "12757552",
+            "type": "one_offs"
+          }
+        },
+        "shipping_address": {
+          "data": {
+            "id": "10982524",
+            "type": "addresses"
+          }
+        },
+        "shipping_option": {
+          "data": {
+            "id": "239",
+            "type": "shipping_options"
+          }
+        },
+        "sku": {
+          "data": {
+            "id": "3366",
+            "type": "skus"
+          }
+        },
+        "addon_sku": {
+          "data": null
+        },
+        "addon_skus": {
+          "data": [
+            {
+              "id": "3755",
+              "type": "skus"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "12757552",
+      "type": "one_offs",
+      "attributes": {
+        "duration": 1,
+        "frequency": 0,
+        "lily_free": false
+      }
+    },
+    {
+      "id": "10982524",
+      "type": "addresses",
+      "attributes": {
+        "line1": "123",
+        "line2": "Testing Street",
+        "postcode": "CR4 1DN",
+        "city": "Test City",
+        "country": "GB",
+        "name": "Aaron Haworth",
+        "company": null,
+        "postcode_anywhere_uid": null,
+        "email": null,
+        "shipping_country_id": 1,
+        "phone_number": null,
+        "door_code": null,
+        "building_number": null,
+        "floor": null,
+        "apartment_number": null
+      }
+    },
+    {
+      "id": "239",
+      "type": "shipping_options",
+      "attributes": {
+        "collection_id": 36,
+        "shipping_method_id": 38,
+        "price": "0.00",
+        "price_pennies": 0,
+        "price_currency": "GBP",
+        "name": "Royal Mail Tracked",
+        "note_length": 50,
+        "method_name": "Royal Mail Tracked",
+        "delivery_pill": "95% assured to arrive on chosen day",
+        "gift_card_editable": true,
+        "phone_number_required": false,
+        "show_gift_card_fields": true,
+        "show_phone_number_field": false
+      }
+    },
+    {
+      "id": "3366",
+      "type": "skus",
+      "attributes": {
+        "name": "The Seasonal Tulips",
+        "collection_id": 36,
+        "description": null,
+        "slug": "the-quinn-ht",
+        "is_addon": false,
+        "single_only": true,
+        "bundle_only": false,
+        "addon_kind": null
+      }
+    },
+    {
+      "id": "3755",
+      "type": "skus",
+      "attributes": {
+        "name": "Peggy & Kate 0 || Peonies In Hands",
+        "collection_id": 108,
+        "description": null,
+        "slug": "peggy-kate-peonies-in-hands",
+        "is_addon": true,
+        "single_only": false,
+        "bundle_only": false,
+        "addon_kind": "standard_gift_card"
+      }
+    }
+  ]
+}

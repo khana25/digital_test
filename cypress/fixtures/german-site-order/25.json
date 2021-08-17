@@ -1,0 +1,2372 @@
+{
+  "data": [
+    {
+      "id": "3749",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Peony handheld",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/02743925-8acf-4ab6-af49-a40abc464e8f.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/b0fdceef-48c0-453e-80e9-6d9404f43895.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Peony handheld",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "peony-handheld",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": true
+      }
+    },
+    {
+      "id": "3938",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "Unsere 'Vatertag' Schokolade ist eine zartschmelzende Dunkle Vollmilchschokolade 48% von Wildbach. Das perfekte Extra für jede Gelegenheit.",
+        "eighteen_plus": false,
+        "long_description": "Unsere 'Vatertag' Schokolade ist eine zartschmelzende Dunkle Vollmilchschokolade 48% von Wildbach. Das perfekte Extra für jede Gelegenheit.",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/fday-choc--/49a49749-03db-4ddb-8c76-2c82d6fd88bd.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "'Du bist der Beste' Schokolade",
+        "price_data": [
+          {
+            "price_pennies": 600,
+            "price_pennies_discounted": 600,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 600,
+            "price_pennies_discounted": 600
+          }
+        ],
+        "slug": "fday-choc--",
+        "addon_kind": "default",
+        "appearing_from": "2021-04-10T00:00:00.000+01:00",
+        "appearing_to": "2021-05-15T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-20",
+        "deliverable_to": "2021-05-15",
+        "tags": [
+          "kreativ-blumenbox",
+          "Blumenstrauß",
+          "Schokolade",
+          "Für Dich",
+          "Geschenk",
+          "cyber",
+          "schnittblumen",
+          "blumen-kaufen",
+          "schone-blumen",
+          "geburtstagsblumen",
+          "blumen-verschicken",
+          "cyber-wochenende",
+          "mothers-day-opt-out",
+          "vatertag"
+        ],
+        "available_to_select": true,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3544",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "Kreiert aus frischen Rieslingtrauben veredelt mit einem Hauch Pinot Noir, der eine feine Note von Walderdbeeren mitbringt. \r\n„Blushed White“ ist der perfekte Begleitung für jeden Anlass.\r\nUnd: seine einzigartige Kombination macht ihn nicht nur super lecker, sondern auch zum trendsicheren Geschenk zu deinen Blumenstrauß.\r\nWeder Tiere noch unser Planet sollten für unseren Genuss leiden müssen. Deshalb ist dieser Wein vegan & biologisch produziert. \r\n\r\nProduziert und abgefüllt in Deutschland\r\nVegan & Biologisch\r\n95% Riesling ◦ 3% Pinot Noir ◦ 2%H2O\r\nVorhandener Alkoholgehalt 12,5% vol\r\nEnthält Sulfite\r\nWeinhaltiges Getränk\r\nL.NR. 0320\r\nDE-ÖKO-O22",
+        "eighteen_plus": true,
+        "long_description": "Kreiert aus frischen Rieslingtrauben veredelt mit einem Hauch Pinot Noir, der eine feine Note von Walderdbeeren mitbringt. \r\n„Blushed White“ ist der perfekte Begleitung für jeden Anlass.\r\nUnd: seine einzigartige Kombination macht ihn nicht nur super lecker, sondern auch zum trendsicheren Geschenk zu deinen Blumenstrauß.\r\nWeder Tiere noch unser Planet sollten für unseren Genuss leiden müssen. Deshalb ist dieser Wein vegan & biologisch produziert. \r\n\r\nProduziert und abgefüllt in Deutschland\r\nVegan & Biologisch\r\n95% Riesling ◦ 3% Pinot Noir ◦ 2%H2O\r\nVorhandener Alkoholgehalt 12,5% vol\r\nEnthält Sulfite\r\nWeinhaltiges Getränk\r\nL.NR. 0320\r\nDE-ÖKO-O22",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/blushed-white-wine/5de88cf6-7641-41ac-82aa-d9e3a3c46691.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "'Blushed White' Wein",
+        "price_data": [
+          {
+            "price_pennies": 700,
+            "price_pennies_discounted": 700,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 700,
+            "price_pennies_discounted": 700
+          }
+        ],
+        "slug": "blushed-white-wine",
+        "addon_kind": "default",
+        "appearing_from": "2021-01-25T00:00:00.000+00:00",
+        "appearing_to": "2021-08-31T00:00:00.000+01:00",
+        "deliverable_from": "2021-01-28",
+        "deliverable_to": "2021-08-31",
+        "tags": [
+          "birthday cake",
+          "birthday",
+          "kuchen",
+          "gugl",
+          "handtied",
+          "kreativ-blumenbox",
+          "minikuchen",
+          "valentinstag-range-email",
+          "schnittblumen",
+          "blumen-kaufen",
+          "schone-blumen",
+          "geburtstagsblumen",
+          "blumen-verschicken",
+          "cyber-wochenende"
+        ],
+        "available_to_select": true,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "2811",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "Handarbeit, Sorgfalt und Liebe: Sawade steht seit 1880 für hochwertige Pralinen und Trüffel und ist Berlins älteste Pralinenmanufaktur. Die hochwertige Runddose enthält vier hochfeine Pralinen in Vollmilch- und Zartbitterschokolade. Zutaten: Zucker, Mandeln (17%), Kakaomasse, Kakaobutter, Haselnüsse (6,1%), Sahne (5,0%), Vollmilchpulver, Pistazien (2,0%), Invertzuckersirup, Jamaica-Rum (0,9%), Glucosesirup, Emulgator: Sonnenblumenlecithine, Ethylalkohol Butter, Kirschwasser, natürliches Vanillearoma, Überzugsmittel: Schellack. Edelbitterschokolade (29%) Kakao: 60% mindestens Vollmilchschokolade (14%) Kakao: 32% mindestens Alle Marzipanartikel enthalten 100% Marzipan-Rohmassen-Qualität. Kann Spuren von Soja und anderen Schalenfrüchte enthalten",
+        "eighteen_plus": false,
+        "long_description": "Handarbeit, Sorgfalt und Liebe: Sawade steht seit 1880 für hochwertige Pralinen und Trüffel und ist Berlins älteste Pralinenmanufaktur. Die hochwertige Runddose enthält vier hochfeine Pralinen in Vollmilch- und Zartbitterschokolade. Zutaten: Zucker, Mandeln (17%), Kakaomasse, Kakaobutter, Haselnüsse (6,1%), Sahne (5,0%), Vollmilchpulver, Pistazien (2,0%), Invertzuckersirup, Jamaica-Rum (0,9%), Glucosesirup, Emulgator: Sonnenblumenlecithine, Ethylalkohol Butter, Kirschwasser, natürliches Vanillearoma, Überzugsmittel: Schellack. Edelbitterschokolade (29%) Kakao: 60% mindestens Vollmilchschokolade (14%) Kakao: 32% mindestens Alle Marzipanartikel enthalten 100% Marzipan-Rohmassen-Qualität. Kann Spuren von Soja und anderen Schalenfrüchte enthalten",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/sawade-pralinen-8601/73749848-2053-4110-83e3-5c0dacc8a692.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/sawade-ffbv-germany/10f38d24-82f5-4e41-af22-2a4ebec243a4.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "Sawade-Pralinen",
+        "price_data": [
+          {
+            "price_pennies": 1000,
+            "price_pennies_discounted": 1000,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 1000,
+            "price_pennies_discounted": 1000
+          }
+        ],
+        "slug": "sawade-pralinen-de",
+        "addon_kind": "default",
+        "appearing_from": "2021-01-25T00:00:00.000+00:00",
+        "appearing_to": "2021-05-15T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-20",
+        "deliverable_to": "2021-05-15",
+        "tags": [
+          "gifts-for-sisters",
+          "gifts-by-post",
+          "gifts-for-mother-in-laws",
+          "flowers-for-mum",
+          "graduation-flowers",
+          "flower-birthday-gift",
+          "fresh flowers",
+          "blumen-verschicken"
+        ],
+        "available_to_select": true,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3684",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Congratulations",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/1ef28299-827f-472c-bcb3-7d0ea868efc9.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/d8e08bb2-54ce-4dd4-bc23-6cff76408295.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Congratulations",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-congratulations",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3693",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Happy Birthday Abstract",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/5b49603e-3ffd-42e7-8dcb-3c6567d25792.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/261e317b-e854-464c-9226-d0a399328b80.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Happy Birthday Abstract",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-happy-birthday-abstract",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3921",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Happy Mday",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/1c3db97a-46df-4203-be44-e1bf54e3d93c.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/cfc190ea-f85c-47a5-8247-d20a151197da.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Happy Mday",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-happy-mday",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-15T00:00:00.000+01:00",
+        "appearing_to": "2022-04-15T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-15",
+        "deliverable_to": "2022-04-15",
+        "tags": [
+          "mothers-day-opt-out"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3922",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Happy Mday 2",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/ce7c8aa5-1c86-414c-a0ef-94d0cde075bc.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/4bc960f2-7190-4674-bc5e-858bb4029d6b.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Happy Mday 2",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-happy-mday-2",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-15T00:00:00.000+01:00",
+        "appearing_to": "2022-04-15T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-15",
+        "deliverable_to": "2022-04-15",
+        "tags": [
+          "mothers-day-opt-out"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3923",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Mday love you",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/85d2ae7d-c2f5-4357-9d31-d49662424c5c.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/02ac3aed-eaa5-41ee-885a-61b3695fad45.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Mday love you",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-mday-love-you",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-16T00:00:00.000+01:00",
+        "appearing_to": "2022-04-16T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-16",
+        "deliverable_to": "2022-04-16",
+        "tags": [
+          "mothers-day-opt-out"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3924",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Mday you're the best",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/4840a5e2-0013-4f04-92fd-0371718cf6f0.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/4e045d08-a271-467b-8c29-735c8fb6f9ba.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Mday you're the best",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-mday-you-re-the-best",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-16T00:00:00.000+01:00",
+        "appearing_to": "2022-04-16T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-16",
+        "deliverable_to": "2022-04-16",
+        "tags": [
+          "mothers-day-opt-out"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3925",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Mday like a mum",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/3235aa95-23fb-4dbe-9b3e-d3afdae0c3e2.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/73803fa0-82d6-4469-80e9-e2590f5d93ff.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Mday like a mum",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-mday-like-a-mum",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-16T00:00:00.000+01:00",
+        "appearing_to": "2022-04-16T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-16",
+        "deliverable_to": "2022-04-16",
+        "tags": [
+          "mothers-day-opt-out"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3926",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Mday rock",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/9e9cc3fd-9e5d-49c8-a24e-8221a328d26d.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/4ba95923-7157-4f72-be83-41a4d3cca4f6.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Mday rock",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-mday-rock",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-16T00:00:00.000+01:00",
+        "appearing_to": "2022-04-16T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-16",
+        "deliverable_to": "2022-04-16",
+        "tags": [
+          "mothers-day-opt-out"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3927",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Mday hearts",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/64e869b0-139e-4c3e-a58f-81853f27bbce.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/9f313601-01d2-4991-9c56-115be27524ef.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Mday hearts",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-mday-hearts",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-16T00:00:00.000+01:00",
+        "appearing_to": "2022-04-16T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-16",
+        "deliverable_to": "2022-04-16",
+        "tags": [
+          "mothers-day-opt-out"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3961",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Happy Father's Day",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/797cba32-ede4-47e3-903f-e82694b1b91a.jpeg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/72694a32-9615-4312-af8f-3365de9ae8f2.jpeg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Happy Father's Day",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-happy-father-s-day",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-23T00:00:00.000+01:00",
+        "appearing_to": "2022-04-23T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-23",
+        "deliverable_to": "2022-04-23",
+        "tags": [
+          "fathers-day-opt-out"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3962",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Fday the best",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/4bf4ab7a-2576-4b9a-9723-af78e79383a0.jpeg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/17bf4c01-5c79-45c3-a9fb-7feaae991626.jpeg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Fday the best",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-fday-the-best",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-23T00:00:00.000+01:00",
+        "appearing_to": "2022-04-23T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-23",
+        "deliverable_to": "2022-04-23",
+        "tags": [
+          "fathers-day-opt-out"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3963",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE like a dad",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/8f9fcc9b-b059-46ac-a67a-f08f1addfa76.jpeg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/83fa8b28-bc26-4a29-a765-597d9cc674fc.jpeg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE like a dad",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-like-a-dad",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-23T00:00:00.000+01:00",
+        "appearing_to": "2022-04-23T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-23",
+        "deliverable_to": "2022-04-23",
+        "tags": [
+          "fathers-day-opt-out"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3964",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Happy Father's Day 2",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/73761c90-7314-4c26-a2e9-b7a2e66c42f2.jpeg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/ff5c0f52-b773-4ceb-99c5-21e84613140d.jpeg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Happy Father's Day 2",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-happy-father-s-day-2",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-23T00:00:00.000+01:00",
+        "appearing_to": "2022-04-23T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-23",
+        "deliverable_to": "2022-04-23",
+        "tags": [
+          "fathers-day-opt-out"
+        ],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "4111",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE peonies",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/afcf00a0-24db-4b28-b95d-258ff98600e9.jpeg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/261a0e14-a574-4186-a9df-518a58e5aa98.jpeg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE peonies",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-peonies",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-04-28T00:00:00.000+01:00",
+        "appearing_to": "2022-04-28T00:00:00.000+01:00",
+        "deliverable_from": "2021-04-28",
+        "deliverable_to": "2022-04-28",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3674",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE I like you",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/ab2ad10c-f1e1-4a58-9fb9-230bed4aef12.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/be763d02-1597-43d6-9061-a0a80d6916fa.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE I like you",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-i-like-you",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3691",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Thinking of You Abstract",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/63723e28-8222-4ef1-8eec-86b6b6b48cc3.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/0f0e31eb-2e03-4a22-84c2-2ec0a0edab8f.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Thinking of You Abstract",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-thinking-of-you-abstract",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3714",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE fühl dich gedrückt",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/0aa72b77-8299-4927-b89b-72c8e6677067.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/f0bac16d-1d9b-455f-9b7f-ea6edc608f74.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE fühl dich gedrückt",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-fuhl-dich-gedruckt",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3836",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE spring",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/3ef1e333-5b75-4625-b5e3-9884ed51364c.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/da7bcb98-2d0d-492b-a99d-08b6ff23aa8a.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE spring",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-spring",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-22T00:00:00.000+00:00",
+        "appearing_to": "2022-03-22T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-22",
+        "deliverable_to": "2022-03-22",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "2807",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "Unsere einzigartigen Blumensträuße und diese zeitlose Glasvase sind das perfekte Team. Und unsere Bouquets können ihre ganze Schönheit zeigen. Einfach gleich mitbestellen und direkt nach Hause liefern lassen. Sie müssen dann nur noch Wasser auffüllen – fertig und genießen!",
+        "eighteen_plus": false,
+        "long_description": "Unsere einzigartigen Blumensträuße und diese zeitlose Glasvase sind das perfekte Team. Und unsere Bouquets können ihre ganze Schönheit zeigen. Einfach gleich mitbestellen und direkt nach Hause liefern lassen. Sie müssen dann nur noch Wasser auffüllen – fertig und genießen!",
+        "media": [
+          {
+            "ratio_width": 1974,
+            "ratio_height": 1975,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/vase-de-8556/d2f9b25f-983c-4906-9201-36439861b3d0.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1974,
+            "ratio_height": 1975,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/vase-de-8556/830412e0-88b9-4717-81dc-f92396afd626.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "Vase",
+        "price_data": [
+          {
+            "price_pennies": 900,
+            "price_pennies_discounted": 900,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 900,
+            "price_pennies_discounted": 900
+          }
+        ],
+        "slug": "vase-copy",
+        "addon_kind": "default",
+        "appearing_from": "2020-07-01T00:00:00.000+01:00",
+        "appearing_to": "2021-08-31T00:00:00.000+01:00",
+        "deliverable_from": "2020-07-02",
+        "deliverable_to": "2021-08-31",
+        "tags": [
+          "cyber",
+          "schnittblumen",
+          "blumen-kaufen",
+          "schone-blumen",
+          "geburtstagsblumen",
+          "blumen-verschicken",
+          "cyber-wochenende"
+        ],
+        "available_to_select": true,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "2812",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "Mionetto Prosecco – jeder Schluck authentisches italienisches Lebensgefühl. Seit fast 130 Jahren werden auf den Hügeln um Valdobbiadene die besonderen Trauben für diesen Prosecco angebaut. Die Kellerei Mionetto steht für Innovation und Tradition gleichermaßen. Genießen Sie prickelnde Momente und feiern Sie das Leben mit dieser Piccolo-Ausgabe.",
+        "eighteen_plus": true,
+        "long_description": "Mionetto Prosecco – jeder Schluck authentisches italienisches Lebensgefühl. Seit fast 130 Jahren werden auf den Hügeln um Valdobbiadene die besonderen Trauben für diesen Prosecco angebaut. Die Kellerei Mionetto steht für Innovation und Tradition gleichermaßen. Genießen Sie prickelnde Momente und feiern Sie das Leben mit dieser Piccolo-Ausgabe.",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/mionetto-prosecco-8575/f762a1e3-4bc8-4888-a468-bd16bb2d8ccc.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/mionetto-prosecco-8575/e8861d74-4925-4fc7-8804-6ac885333b0e.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "Mionetto-Prosecco",
+        "price_data": [
+          {
+            "price_pennies": 600,
+            "price_pennies_discounted": 600,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 600,
+            "price_pennies_discounted": 600
+          }
+        ],
+        "slug": "mionetto-prosecco-newvat",
+        "addon_kind": "default",
+        "appearing_from": "2020-07-01T00:00:00.000+01:00",
+        "appearing_to": "2021-08-31T00:00:00.000+01:00",
+        "deliverable_from": "2020-07-02",
+        "deliverable_to": "2021-08-31",
+        "tags": [
+          "birthday cake",
+          "birthday",
+          "kuchen",
+          "gugl",
+          "handtied",
+          "kreativ-blumenbox",
+          "minikuchen",
+          "valentinstag-range-email",
+          "schnittblumen",
+          "blumen-kaufen",
+          "schone-blumen",
+          "geburtstagsblumen",
+          "blumen-verschicken",
+          "cyber-wochenende"
+        ],
+        "available_to_select": true,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3078",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "Wieso die handgebundenen Blumen nicht gleich zusammen mit der passenden Vase bestellen? \r\n\r\nIhr Blumenstrauß wird fertig arrangiert in der Vase beim Beschenkten ankommen. Damit die Blumen ein möglichst langes Leben haben, kürzen Sie am besten jeden einzelnen Stiel, sobald die Blumen geliefert wurden und wiederholen das Ganze im Abstand einiger Tage.\r\nHöhne: 19.5cm, Durchmesser: 14cm",
+        "eighteen_plus": false,
+        "long_description": "Wieso die handgebundenen Blumen nicht gleich zusammen mit der passenden Vase bestellen? \r\n\r\nIhr Blumenstrauß wird fertig arrangiert in der Vase beim Beschenkten ankommen. Damit die Blumen ein möglichst langes Leben haben, kürzen Sie am besten jeden einzelnen Stiel, sobald die Blumen geliefert wurden und wiederholen das Ganze im Abstand einiger Tage.\r\nHöhne: 19.5cm, Durchmesser: 14cm",
+        "media": [
+          {
+            "ratio_width": 1,
+            "ratio_height": 1,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/pink-vase/d7b699e9-175b-466d-8ea3-2cc25e2bcfaa.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 3155,
+            "ratio_height": 2586,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/pink-vase/0f2b56c0-2b14-4640-bd21-5e7ffb33969c.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "Pink Vase",
+        "price_data": [
+          {
+            "price_pennies": 1200,
+            "price_pennies_discounted": 1200,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 1200,
+            "price_pennies_discounted": 1200
+          }
+        ],
+        "slug": "pink-vase-bergkamen",
+        "addon_kind": "default",
+        "appearing_from": "2020-10-04T00:00:00.000+01:00",
+        "appearing_to": "2021-08-31T00:00:00.000+01:00",
+        "deliverable_from": "2020-10-06",
+        "deliverable_to": "2021-08-31",
+        "tags": [
+          "cyber",
+          "gifts-for-sisters",
+          "gifts-by-post",
+          "gifts-for-mother-in-laws",
+          "flowers-for-mum",
+          "graduation-flowers",
+          "flower-birthday-gift",
+          "fresh flowers",
+          "fresh-flowers",
+          "thoughtful-gifts",
+          "send-flowers-to-uk-from-canada",
+          "business-flowers",
+          "teacher-gifts",
+          "send-flowers-to-uk-from-holland",
+          "buy-flowers-online",
+          "flower-gift-ideas",
+          "welcome-home-flowers",
+          "new-home-flowers",
+          "gifts-for-mum",
+          "boxed-flowers",
+          "flowers-in-a-box"
+        ],
+        "available_to_select": true,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3750",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Peony_gift_card",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/ee3c35a6-512b-4e58-8420-ba0982fab6dd.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/7542669f-477a-4265-a1dc-15ad875d749d.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Peony_gift_card",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-peony_gift_card",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3683",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Get well soon",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/c71091aa-67b0-4903-8abb-ddaa7a0504c6.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/55fdd945-0944-438a-b2da-2b238e883f7d.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Get well soon",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-get-well-soon",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3746",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE With Deepest Sympathy",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/512c7bcd-dd9d-4012-8acd-3a88f0b889ce.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/e97c0fe2-7816-4cef-8da9-9429df3578bf.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE With Deepest Sympathy",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-with-deepest-sympathy",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3747",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Vielen Dank",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/8726ce4d-7762-442e-bd22-a74d59b3a7de.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/246a58da-6148-4395-84de-33ffc71f8d64.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Vielen Dank",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "flower-for-you-de",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3712",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE 30",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/0714f6b1-e77f-483b-9944-1095311b6c9b.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/8baae106-f410-4327-b087-8115a781b3d4.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE 30",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-30",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3713",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE 21",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/ec7adb94-7c73-424c-b88a-ebfd6baf1068.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/a4243f85-3435-4e41-9364-c50d8be3e27b.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE 21",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-21",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3716",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE Formal Giftcard",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/381d94f0-1ea4-4146-a36a-92c9b1b71d2c.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/06c7f699-9a91-4a6a-b5e7-2b3ed00f9b9e.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE Formal Giftcard",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-formal-giftcard",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3717",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE 18",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/9e58f3a8-11b3-4077-892e-5cbfca889f05.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/a7075dcd-aa61-4d95-9132-9f3a1784d2da.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE 18",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-18",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3719",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE 90",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/918433ab-5048-493e-b6de-6faa0a30224b.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/0dc49f3a-6f4e-4666-b09e-62c3c42b0fd1.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE 90",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-90",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3800",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE 40",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/915d458f-234b-4e1f-8d32-28125a9a7162.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/78476e95-4a83-4e02-b367-3cf5cdadc793.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE 40",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-40",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-05T00:00:00.000+00:00",
+        "appearing_to": "2022-03-05T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-05",
+        "deliverable_to": "2022-03-05",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3801",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE 50",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/e0744071-f238-47ed-8af7-78e2f36d12f7.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/7631825a-6fe1-4a25-b706-7af96f60c10d.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE 50",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-50",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-05T00:00:00.000+00:00",
+        "appearing_to": "2022-03-05T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-05",
+        "deliverable_to": "2022-03-05",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3802",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE 60",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/2766f631-274e-453e-8bd5-3f0c021b50f7.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/d7bda77c-a60c-48f6-b919-f382eb1097cf.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE 60",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-60",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-05T00:00:00.000+00:00",
+        "appearing_to": "2022-03-05T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-05",
+        "deliverable_to": "2022-03-05",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3803",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE 70",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/091e76e5-d91f-40e5-96a8-dbb96ee5b691.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/c9e66c62-d98c-46d3-ab52-dae5f1ef32db.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE 70",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-70",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-05T00:00:00.000+00:00",
+        "appearing_to": "2022-03-05T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-05",
+        "deliverable_to": "2022-03-05",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3804",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE 80",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/972c89b6-c320-4941-8428-df4fe8ac5d74.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/4ec21a94-450e-4e4e-ac79-856c1daf8288.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE 80",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-80",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-05T00:00:00.000+00:00",
+        "appearing_to": "2022-03-05T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-05",
+        "deliverable_to": "2022-03-05",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    },
+    {
+      "id": "3715",
+      "type": "sku_addons",
+      "attributes": {
+        "currency": "EUR",
+        "description": "",
+        "eighteen_plus": false,
+        "long_description": "DE du fehlst mir",
+        "media": [
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-main/bouquet/2d7cdfe3-8cbb-4e7e-bb60-54cbbec5114f.jpg",
+            "media_type": "image"
+          },
+          {
+            "ratio_width": 1311,
+            "ratio_height": 1819,
+            "tags_android": [],
+            "tags_ios": [],
+            "tags_web": [],
+            "url": "https://bw-site-images-processed-staging.s3.amazonaws.com/addon-carousel/bouquet/afbb3006-c7c5-4bcb-9cdb-a7fdbe199cc7.jpg",
+            "media_type": "image"
+          }
+        ],
+        "name": "DE du fehlst mir",
+        "price_data": [
+          {
+            "price_pennies": 0,
+            "price_pennies_discounted": 0,
+            "quantity": 1
+          }
+        ],
+        "prices": [
+          {
+            "duration": 1,
+            "frequency": 0,
+            "number_of_deliveries": 1,
+            "type": "addon",
+            "price_pennies": 0,
+            "price_pennies_discounted": 0
+          }
+        ],
+        "slug": "de-du-fehlst-mir",
+        "addon_kind": "standard_gift_card",
+        "appearing_from": "2021-03-01T00:00:00.000+00:00",
+        "appearing_to": "2022-03-01T00:00:00.000+00:00",
+        "deliverable_from": "2021-03-01",
+        "deliverable_to": "2022-03-01",
+        "tags": [],
+        "available_to_select": false,
+        "is_selected": false
+      }
+    }
+  ]
+}

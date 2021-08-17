@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": "4045394",
+    "type": "stripe_payment_intents",
+    "attributes": {
+      "client_secret": "pi_1InMkJKoz4lNOAHNM94ubHko_secret_3LS56WFSGDubNu7r4n1YDbBJC"
+    }
+  }
+}
