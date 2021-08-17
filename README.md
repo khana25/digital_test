@@ -1,4 +1,3 @@
-# QA-Technical-test
 
 ## What is Cypress?
 Cypress is a JavaScript End to End testing framework.
