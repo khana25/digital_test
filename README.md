@@ -33,18 +33,18 @@ Cypress is a JavaScript End to End testing framework
 - Need to prioritse the tasks in future to maintain the test suites stable and easy to maintain for the regresion tests and running the tests in the pipelines for the continuous develivery of the product
 
 - I have setup the structure of the tests in the following manner:
-  i)   Easy to use
-  ii)  Easy to maintain
-  iii) There's a proper 'before hook' used to setup the login step
-  iv)  Easily defined the 'Actions' within the steps
-  v)   There are verifications steps to verify each action performed 
-  vi)  Perform vaidation of the elements to be present/visible
-  vii) There are no sleeps/waits used in any scenrio or feature to improve the stability of the tests
-  viii) All the tests/scenarios are independent of each other and can run them separately or all in one go too
-  ix) I have used the 'Page Objects' which helps in maintain and fixing the elements if in future any of the elements css has changed (can navigate to the following elmenent and change the css/id or the name of the element and that will update for all the rest of the steps where it is used) 
-  x) I have used the a basePage for the baseURL and the viewports if in future the tests needs to be run on any particualr device such macbook Pro 16, iPhone11 or Android phone etc.
-  
-  xi)  I have used Typescript with Cypress
+  -   Easy to use
+  -   Easy to maintain
+  -   There's a proper 'before hook' used to setup the login step
+  -   Easily defined the 'Actions' within the steps
+  -   There are verifications steps to verify each action performed 
+  -   Perform vaidation of the elements to be present/visible
+  -   There are no sleeps/waits used in any scenrio or feature to improve the stability of the tests
+  -   All the tests/scenarios are independent of each other and can run them separately or all in one go too
+  -   I have used the 'Page Objects' which helps in maintain and fixing the elements if in future any of the elements css has changed (can navigate to the following elmenent and  
+         change the css/id or the name of the element and that will update for all the rest of the steps where it is used) 
+  -   I have used the a basePage for the baseURL and the viewports if in future the tests needs to be run on any particualr device such macbook Pro 16, iPhone11 or Android phone etc.
+  -   I have used Typescript with Cypress
 
 
   ## Browser Support
