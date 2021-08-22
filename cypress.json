@@ -1,5 +1,7 @@
 {
   "videosFolder": "videos",
+  "video": false,
+  "screenshots": false,
   "videoCompression": 0,
   "pluginsFile": "cypress/plugins/index.ts",
   "supportFile": "cypress/support/index.ts",
@@ -7,16 +9,12 @@
   "reporter": "mochawesome",
 
   "reporterOptions": {
-    "reportDir": "results",
+    "reportDir": "cypress/results",
     "timestamp": "yyyy-mm-dd_HH-MM-ss_l",
     "overwrite": false,
     "html": false,
     "json": true,
-    "reportTitle": "AK test report title",
-    "reportPageTitle": "Report title here",
-    "title": "AK test report title 2",
-    "pageTitle": "Report title here 3",
-    "code": false
+    "reportTitle": "QA challenge Test Report"
   },
   "defaultCommandTimeout": 15000,
   "responseTimeout": 60000

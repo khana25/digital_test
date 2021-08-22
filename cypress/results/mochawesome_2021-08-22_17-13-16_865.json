@@ -1,0 +1,164 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 4,
+    "passes": 4,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-08-22T16:13:12.732Z",
+    "end": "2021-08-22T16:13:16.862Z",
+    "duration": 4130,
+    "testsRegistered": 4,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "bcbcda40-8ee3-4b47-8056-4549d735e74a",
+      "title": "",
+      "fullFile": "cypress/integration/scenarioAC_1.spec.ts",
+      "file": "cypress/integration/scenarioAC_1.spec.ts",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "68b564fa-857c-4151-a9bd-0e017a87655c",
+          "title": "Ac-1: As a subscribed member I can log in using my credentials so that my account is securely accessible",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "A user should get an error wihtout entering username or password",
+              "fullTitle": "Ac-1: As a subscribed member I can log in using my credentials so that my account is securely accessible A user should get an error wihtout entering username or password",
+              "timedOut": null,
+              "duration": 638,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "// click the Login button without entering the username and password and verify the error\n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].clickLoginButton();\n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].verifyNoUsernameError();",
+              "err": {},
+              "uuid": "0440b9ea-2cb5-435c-ae2e-4430451cea3d",
+              "parentUUID": "68b564fa-857c-4151-a9bd-0e017a87655c",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Given that I have entered a username but no password and verify the password error",
+              "fullTitle": "Ac-1: As a subscribed member I can log in using my credentials so that my account is securely accessible Given that I have entered a username but no password and verify the password error",
+              "timedOut": null,
+              "duration": 514,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "//Enter the username \n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].enterUsername();\n//Click Login button without entering the password\n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].clickLoginButton();\n//verify the password error\n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].verifyNoPasswordError();",
+              "err": {},
+              "uuid": "bf96c320-798f-4557-8caf-8d14f1b35378",
+              "parentUUID": "68b564fa-857c-4151-a9bd-0e017a87655c",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "Given that I have entered an incorrect username and password and verify username and password error",
+              "fullTitle": "Ac-1: As a subscribed member I can log in using my credentials so that my account is securely accessible Given that I have entered an incorrect username and password and verify username and password error",
+              "timedOut": null,
+              "duration": 913,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "//Enter an Invaid username and password and click Login button\n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].enterInvalidUsername();\n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].enterInvalidPassword();\n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].clickLoginButton();\n// Verify the invalid username and password error\n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].verifyInvalidUsernamePasswordError();",
+              "err": {},
+              "uuid": "52c5de3d-e452-42ef-8762-03e6aaaa61f1",
+              "parentUUID": "68b564fa-857c-4151-a9bd-0e017a87655c",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "iven that I have entered a valid username and password and verify user successfully logged In",
+              "fullTitle": "Ac-1: As a subscribed member I can log in using my credentials so that my account is securely accessible iven that I have entered a valid username and password and verify user successfully logged In",
+              "timedOut": null,
+              "duration": 844,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "//Enter valid credentails and click Login button\n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].enterUsername();\n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].enterPassword();\n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].clickLoginButton();\n//Verify that browser user has the redirect path \"/inventory.html\"\n_page_objects_pages_scenarioAC_1__WEBPACK_IMPORTED_MODULE_1__[\"default\"].verifyBrowserURLAfterSuccessfullyLoggedIn();",
+              "err": {},
+              "uuid": "656e13f2-7877-44c6-b0f5-67ec0d0c5ee0",
+              "parentUUID": "68b564fa-857c-4151-a9bd-0e017a87655c",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "0440b9ea-2cb5-435c-ae2e-4430451cea3d",
+            "bf96c320-798f-4557-8caf-8d14f1b35378",
+            "52c5de3d-e452-42ef-8762-03e6aaaa61f1",
+            "656e13f2-7877-44c6-b0f5-67ec0d0c5ee0"
+          ],
+          "failures": [],
+          "pending": [],
+          "skipped": [],
+          "duration": 2909,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": false,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "6.2.2"
+    },
+    "marge": {
+      "options": {
+        "reportDir": "cypress/results",
+        "timestamp": "yyyy-mm-dd_HH-MM-ss_l",
+        "overwrite": false,
+        "html": false,
+        "json": true,
+        "reportTitle": "QA challenge Test Report"
+      },
+      "version": "5.2.0"
+    }
+  }
+}

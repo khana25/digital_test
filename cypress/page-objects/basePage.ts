@@ -21,7 +21,7 @@ export default class BasePage {
 
   static VisitPage(url): void {
     let visitingUrl = url;
-    let domain = Cypress.env('test') || 'https://lendicoqachallenge.azurewebsites.net/';
+    let domain = Cypress.env('test') || 'https://www.saucedemo.com/';
 
     if (typeof url === 'string' && domain && url.indexOf('http') < 0) {
       visitingUrl = `${domain}${url.replace(/^\//gim, '')}`;
@@ -30,9 +30,6 @@ export default class BasePage {
     }
     Cypress.env('test', domain);
 
-    cy.visit(visitingUrl, {
-      failOnStatusCode: false,
-      auth: { username: 'QA-CHALLENGE', password: 'jooTh9me' }
-    });
+    cy.visit(visitingUrl);
   }
 }

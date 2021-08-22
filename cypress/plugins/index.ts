@@ -23,7 +23,5 @@ module.exports = (on, config) => {
   const options = browserify.defaultOptions;
 
   options.browserifyOptions.extensions.unshift('.ts');
-
-  //on("file:preprocessor", cucumber(options));
   
 };
