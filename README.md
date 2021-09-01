@@ -8,24 +8,24 @@ Cypress is a JavaScript End to End testing framework
 
 ## Opening Cypress Test Runner and running tests individually inside the Cypress TestRunner
 
-     npx cypress open
+     npm run cy:open
 
      select individual scenario to run and see the outcome inside the TestRunner
 
 ## Running Tests all in headless browser in terminal or command line
 
-     npx cypress run 
+     npm run cy:run 
 
 ## Running individual test in headless browser
 
-   npx cypress run --spec "cypress/integration/scenarioAC_1.spec.ts"
+   npm run cy:run --spec "cypress/integration/scenarioAC_1.spec.ts"
 
 
 ## Running tests in a browser (e.g. chrome or in firefox browser)
 
-   npx cypress run --spec "cypress/integration/scenarioAC_1.spec.ts" -b chrome
+   npm run cy:run --spec "cypress/integration/scenarioAC_1.spec.ts" -b chrome
 
-   npx cypress run --spec "cypress/integration/scenarioAC_1.spec.ts" -b firefox
+   npm run cy:run --spec "cypress/integration/scenarioAC_1.spec.ts" -b firefox
 
 
 ## NOTE:
@@ -52,9 +52,9 @@ Cypress is a JavaScript End to End testing framework
  -   Cypress has the capability to run tests across multiple browsers. Currently, Cypress has support for Chrome-family browsers (including Electron and Chromium-based Microsoft Edge), and Firefox 
 
   # Command to run the tests in Edge browser
- -  npx cypress run --browser edge (To run all the tests in edge browser)
+ -  npm run cy:run --browser edge (To run all the tests in edge browser)
 
- -  npx cypress run --spec "cypress/integration/scenarioAC_1.spec.ts" --browser edge (to run an individual test in edge 
+ -  npm run cy:run --spec "cypress/integration/scenarioAC_1.spec.ts" --browser edge (to run an individual test in edge 
     browser)
     
     But first, download the plugin for Edge browser by visiting "https://www.microsoftedgeinsider.com/en-us/download/" or "https://www.microsoft.com/en-us/edge" 
