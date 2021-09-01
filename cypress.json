@@ -7,7 +7,6 @@
   "supportFile": "cypress/support/index.ts",
   "chromeWebSecurity": false,
   "reporter": "mochawesome",
-
   "reporterOptions": {
     "reportDir": "cypress/results",
     "timestamp": "yyyy-mm-dd_HH-MM-ss_l",
@@ -17,5 +16,6 @@
     "reportTitle": "QA challenge Test Report"
   },
   "defaultCommandTimeout": 15000,
-  "responseTimeout": 60000
+  "responseTimeout": 60000,
+  "projectId": "673x19"
 }
