@@ -16,6 +16,5 @@
     "reportTitle": "QA challenge Test Report"
   },
   "defaultCommandTimeout": 15000,
-  "responseTimeout": 60000,
-  "projectId": "673x19"
+  "responseTimeout": 60000
 }
